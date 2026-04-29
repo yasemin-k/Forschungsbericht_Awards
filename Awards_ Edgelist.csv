@@ -1,0 +1,667 @@
+from,to,year,award,weight,category,project,sex,ethnicity,year of birth
+Mikey Madison,Oscar,2025,Oscar,2,acting,Anora,female,White,1999
+Cynthia Erivo,Oscar,2025,Oscar,1,acting,Wicked,female,Black,1987
+Karla Sofía Gascón,Oscar,2025,Oscar,1,acting,Emilia Pérez,female,Mixed,1972
+Demi Moore,Oscar,2025,Oscar,1,acting,The Substance,female,White,1962
+Fernanda Torres,Oscar,2025,Oscar,1,acting,I'm Still Here,female,Latin,1965
+Zoe Saldaña,Oscar,2025,Oscar,2,acting,Emilia Pérez,female,Mixed,1978
+Monica Barbaro,Oscar,2025,Oscar,1,acting,A Complete Unknown,female,Mixed,1990
+Ariana Grande,Oscar,2025,Oscar,1,acting,Wicked,female,White,1993
+Felicity Jones,Oscar,2025,Oscar,1,acting,The Brutalist,female,White,1983
+Isabella Rossellini,Oscar,2025,Oscar,1,acting,Conclave,female,White,1952
+Emma Stone,Oscar,2024,Oscar,2,acting,Poor Things,female,White,1988
+Annette Bening,Oscar,2024,Oscar,1,acting,Nyad,female,White,1958
+Lily Gladstone,Oscar,2024,Oscar,1,acting,Killers of the Flower Moon,female,Indigenous,1986
+Sandra Hüller,Oscar,2024,Oscar,1,acting,Anatomy of a Fall,female,White,1978
+Carey Mulligan,Oscar,2024,Oscar,1,acting,Maestro,female,White,1978
+Da'Vine Joy Randolph,Oscar,2024,Oscar,2,acting,The Holdovers,female,Black,1986
+Emily Blunt,Oscar,2024,Oscar,1,acting,Oppenheimer,female,White,1983
+Danielle Brooks,Oscar,2024,Oscar,1,acting,The Color Purple,female,Black,1989
+America Ferrera,Oscar,2024,Oscar,1,acting,Barbie,female,Latin,1984
+Jodie Foster,Oscar,2024,Oscar,1,acting,Nyad,female,White,1962
+Michelle Yeoh,Oscar,2023,Oscar,2,acting,Everything Everywhere All at Once,female,Asian,1962
+Cate Blanchett,Oscar,2023,Oscar,1,acting,TÁR,female,White,1969
+Ana de Armas,Oscar,2023,Oscar,1,acting,Blonde,female,Latina,1988
+Andrea Riseborough,Oscar,2023,Oscar,1,acting,To Leslie,female,White,1981
+Michelle Williams,Oscar,2023,Oscar,1,acting,The Fabelmans,female,White,1980
+Jamie Lee Curtis,Oscar,2023,Oscar,2,acting,Everything Everywhere All at Once,female,White,1958
+Angela Bassett,Oscar,2023,Oscar,1,acting,Black Panther: Wakanda Forever,female,Black,1958
+Hong Chau,Oscar,2023,Oscar,1,acting,The Whale,female,Asian,1979
+Kerry Condon,Oscar,2023,Oscar,1,acting,The Banshees of Inisherin,female,White,1983
+Stephanie Hsu,Oscar,2023,Oscar,1,acting,Everything Everywhere All at Once,female,Asian,1990
+Jessica Chastain,Oscar,2022,Oscar,2,acting,The Eyes of Tammy Faye,female,White,1977
+Olivia Colman,Oscar,2022,Oscar,1,acting,The Lost Daughter,female,White,1974
+Penélope Cruz,Oscar,2022,Oscar,1,acting,Parallel Mothers,female,White,1974
+Nicole Kidman,Oscar,2022,Oscar,1,acting,Being the Ricardos,female,White,1967
+Kristen Stewart,Oscar,2022,Oscar,1,acting,Spencer,female,White,1990
+Ariana DeBose,Oscar,2022,Oscar,2,acting,West Side Story,female,Mixed,1991
+Jessie Buckley,Oscar,2022,Oscar,1,acting,The Lost Daughter,female,White,1989
+Judi Dench,Oscar,2022,Oscar,1,acting,Belfast,female,White,1934
+Kirsten Dunst,Oscar,2022,Oscar,1,acting,The Power of the Dog,female,White,1982
+Aunjanue Ellis,Oscar,2022,Oscar,1,acting,King Richard,female,Black,1969
+Fernanda Torres,Golden Globe,2025,Golden Globe,2,acting,I'm Still Here,female,White,1965
+Angelina Jolie,Golden Globe,2025,Golden Globe,1,acting,Maria,female,White,1975
+Kate Winslet,Golden Globe,2025,Golden Globe,1,acting,Lee,female,White,1975
+Nicole Kidman,Golden Globe,2025,Golden Globe,1,acting,Babygirl,female,White,1967
+Pamela Anderson,Golden Globe,2025,Golden Globe,1,acting,The Last Showgirl,female,White,1967
+Tilda Swinton,Golden Globe,2025,Golden Globe,1,acting,The Room Next Door,female,White,1960
+Demi Moore,Golden Globe,2025,Golden Globe,2,acting,The Substance,female,White,1962
+Amy Adams,Golden Globe,2025,Golden Globe,1,acting,Nightbitch,female,White,1974
+Cynthia Erivo,Golden Globe,2025,Golden Globe,1,acting,Wicked,female,Black,1987
+Karla Sofía Gascón,Golden Globe,2025,Golden Globe,1,acting,Emilia Pérez,female,White,1972
+Mikey Madison,Golden Globe,2025,Golden Globe,1,acting,Anora,female,White,1999
+Zendaya,Golden Globe,2025,Golden Globe,1,acting,Challengers,female,Black,1996
+Zoe Saldaña,Golden Globe,2025,Golden Globe,2,acting,Emilia Pérez,female,Mixed,1978
+Ariana Grande,Golden Globe,2025,Golden Globe,1,acting,Wicked,female,White,1993
+Felicity Jones,Golden Globe,2025,Golden Globe,1,acting,The Brutalist,female,White,1983
+Isabella Rossellini,Golden Globe,2025,Golden Globe,1,acting,Conclave,female,White,1952
+Margaret Qualley,Golden Globe,2025,Golden Globe,1,acting,The Substance,female,White,1994
+Selena Gomez,Golden Globe,2025,Golden Globe,1,acting,Emilia Pérez,female,Latin,1992
+Anna Sawai,Golden Globe,2025,Golden Globe,2,acting,Shogun,female,Asian,1992
+Emma D’Arcy,Golden Globe,2025,Golden Globe,1,acting,House of the Dragon,female,White,1992
+Kathy Bates,Golden Globe,2025,Golden Globe,1,acting,Matlock (2024 TV Series),female,White,1948
+Keira Knightley,Golden Globe,2025,Golden Globe,1,acting,Black Doves,female,White,1985
+Keri Russell,Golden Globe,2025,Golden Globe,1,acting,The Diplomat,female,White,1976
+Maya Erskine,Golden Globe,2025,Golden Globe,1,acting,Mr. & Mrs. Smith,female,Asian,1987
+Jean Smart,Golden Globe,2025,Golden Globe,2,acting,Hacks,female,White,1951
+Ayo Edebiri,Golden Globe,2025,Golden Globe,1,acting,The Bear,female,Black,1995
+Kathryn Hahn,Golden Globe,2025,Golden Globe,1,acting,Agatha All Along,female,White,1973
+Kristen Bell,Golden Globe,2025,Golden Globe,1,acting,Nobody Wants This,female,White,1980
+Quinta Brunson,Golden Globe,2025,Golden Globe,1,acting,Abbott Elementary,female,Black,1989
+Selena Gomez,Golden Globe,2025,Golden Globe,1,acting,Only Murders in the Building,female,Latin,1992
+Jodie Foster,Golden Globe,2025,Golden Globe,2,acting,True Detective: Night Country,female,White,1962
+Cate Blanchett,Golden Globe,2025,Golden Globe,1,acting,Disclaimer,female,White,1969
+Cristin Milioti,Golden Globe,2025,Golden Globe,1,acting,The Penguin,female,White,1985
+Kate Winslet,Golden Globe,2025,Golden Globe,1,acting,The Regime,female,White,1975
+Naomi Watts,Golden Globe,2025,Golden Globe,1,acting,Feud: Capote vs. The Swans,female,White,1968
+Sofía Vergara,Golden Globe,2025,Golden Globe,1,acting,Griselda,female,Latin,1972
+Jessica Gunning,Golden Globe,2025,Golden Globe,2,acting,Baby Reindeer,female,White,1986
+Allison Janney,Golden Globe,2025,Golden Globe,1,acting,The Diplomat,female,White,1959
+Dakota Fanning,Golden Globe,2025,Golden Globe,1,acting,Ripley,female,White,1994
+Hannah Einbinder,Golden Globe,2025,Golden Globe,1,acting,Hacks,female,White,1995
+Kali Reis,Golden Globe,2025,Golden Globe,1,acting,True Detective: Night Country,female,Mixed,1986
+Liza Colón-Zayas,Golden Globe,2025,Golden Globe,1,acting,The Bear,female,Latin,1972
+Lily Gladstone,Golden Globe,2024,Golden Globe,2,acting,Killers of the Flower Moon,female,Indigenous,1986
+Annette Bening,Golden Globe,2024,Golden Globe,1,acting,Nyad,female,White,1958
+Cailee Spaeny,Golden Globe,2024,Golden Globe,1,acting,Priscilla,female,White,1998
+Carey Mulligan,Golden Globe,2024,Golden Globe,1,acting,Maestro,female,White,1985
+Greta Lee,Golden Globe,2024,Golden Globe,1,acting,Past Lives,female,Asian,1983
+Sandra Hüller,Golden Globe,2024,Golden Globe,1,acting,Anatomy of a Fall,female,White,1978
+Emma Stone,Golden Globe,2024,Golden Globe,2,acting,Poor Things,female,White,1988
+Alma Pöysti,Golden Globe,2024,Golden Globe,1,acting,Fallen Leaves,female,White,1981
+Fantasia Barrino,Golden Globe,2024,Golden Globe,1,acting,The Color Purple (2023),female,Black,1984
+Jennifer Lawrence,Golden Globe,2024,Golden Globe,1,acting,No Hard Feelings,female,White,1990
+Margot Robbie,Golden Globe,2024,Golden Globe,1,acting,Barbie,female,White,1990
+Natalie Portman,Golden Globe,2024,Golden Globe,1,acting,May December,female,White,1981
+Da’Vine Joy Randolph,Golden Globe,2024,Golden Globe,2,acting,The Holdovers,female,Black,1989
+Danielle Brooks,Golden Globe,2024,Golden Globe,1,acting,The Color Purple (2023),female,Black,1989
+Emily Blunt,Golden Globe,2024,Golden Globe,1,acting,Oppenheimer,female,White,1983
+Jodie Foster,Golden Globe,2024,Golden Globe,1,acting,Nyad,female,White,1962
+Julianne Moore,Golden Globe,2024,Golden Globe,1,acting,May December,female,White,1960
+Rosamund Pike,Golden Globe,2024,Golden Globe,1,acting,Saltburn,female,White,1979
+Sarah Snook,Golden Globe,2024,Golden Globe,2,acting,Succession,female,White,1987
+Keri Russell,Golden Globe,2024,Golden Globe,1,acting,The Diplomat,female,White,1976
+Imelda Staunton,Golden Globe,2024,Golden Globe,2,acting,The Crown,female,White,1956
+Helen Mirren,Golden Globe,2024,Golden Globe,1,acting,1923,female,White,1945
+Bella Ramsey,Golden Globe,2024,Golden Globe,1,acting,The Last of Us,female,White ,2003
+Ayo Edebiri,Golden Globe,2024,Golden Globe,2,acting,The Bear,female,Black,1995
+Elle Fanning,Golden Globe,2024,Golden Globe,1,acting,The Great,female,White,1998
+Natasha Lyonne,Golden Globe,2024,Golden Globe,1,acting,Poker Face,female,White,1979
+Quinta Brunson,Golden Globe,2024,Golden Globe,1,acting,Abbott Elementary,female,Black,1989
+Rachel Brosnahan,Golden Globe,2024,Golden Globe,1,acting,The Marvelous Mrs. Maisel,female,White,1990
+Selena Gomez,Golden Globe,2024,Golden Globe,1,acting,Only Murders in the Building,female,Latin,1992
+Ali Wong,Golden Globe,2024,Golden Globe,2,acting,Beef,female,Asian,1982
+Brie Larson,Golden Globe,2024,Golden Globe,1,acting,Lessons in Chemistry,female,White,1989
+Elizabeth Olsen,Golden Globe,2024,Golden Globe,1,acting,Love & Death,female,White,1989
+Juno Temple,Golden Globe,2024,Golden Globe,1,acting,Fargo,female,White,1989
+Rachel Weisz,Golden Globe,2024,Golden Globe,1,acting,Dead Ringers,female,White,1970
+Riley Keough,Golden Globe,2024,Golden Globe,1,acting,Daisy Jones and the Six,female,White,1989
+Elizabeth Debicki,Golden Globe,2024,Golden Globe,2,acting,The Crown,female,White,1990
+Christina Ricci,Golden Globe,2024,Golden Globe,1,acting,Yellowjackets,female,White,1980
+Abby Elliott,Golden Globe,2024,Golden Globe,1,acting,The Bear,female,White,1987
+Hannah Waddingham,Golden Globe,2024,Golden Globe,1,acting,Ted Lasso,female,White,1974
+J. Smith-Cameron,Golden Globe,2024,Golden Globe,1,acting,Succession,female,White,1957
+Meryl Streep,Golden Globe,2024,Golden Globe,1,acting,Only Murders in the Building,female,White,1949
+Cate Blanchett,Golden Globe,2023,Golden Globe,2,acting,TÁR,female,White,1969
+Ana de Armas,Golden Globe,2023,Golden Globe,1,acting,Blonde,female,Latin,1988
+Michelle Williams,Golden Globe,2023,Golden Globe,1,acting,The Fabelmans,female,White,1980
+Olivia Colman,Golden Globe,2023,Golden Globe,1,acting,Empire of Light,female,White,1974
+Viola Davis,Golden Globe,2023,Golden Globe,1,acting,The Woman King,female,Black,1965
+Michelle Yeoh,Golden Globe,2023,Golden Globe,2,acting,Everything Everywhere All at Once,female,Asian,1962
+Anya Taylor-Joy,Golden Globe,2023,Golden Globe,1,acting,The Menu,female,White,1996
+Emma Thompson,Golden Globe,2023,Golden Globe,1,acting,"Good Luck to You, Leo Grande",female,White,1959
+Lesley Manville,Golden Globe,2023,Golden Globe,1,acting,Mrs. Harris Goes to Paris,female,White,1956
+Margot Robbie,Golden Globe,2023,Golden Globe,1,acting,Babylon,female,White,1990
+Jennifer Coolidge,Golden Globe,2023,Golden Globe,2,acting,The White Lotus,female,White,1961
+Niecy Nash-Betts,Golden Globe,2023,Golden Globe,1,acting,Monster: The Jeffrey Dahmer Story,female,Black,1970
+Daisy Edgar-Jones,Golden Globe,2023,Golden Globe,1,acting,Under the Banner of Heaven,female,White,1998
+Julia Garner,Golden Globe,2023,Golden Globe,2,acting,Ozark,female,White,1994
+Sheryl Lee Ralph,Golden Globe,2023,Golden Globe,1,acting,Abbott Elementary,female,Black,1956
+Janelle James,Golden Globe,2023,Golden Globe,1,acting,Abbott Elementary,female,Black,1984
+Hannah Einbinder,Golden Globe,2023,Golden Globe,1,acting,Hacks,female,White,1995
+Elizabeth Debicki,Golden Globe,2023,Golden Globe,1,acting,The Crown,female,White,1990
+Angela Bassett,Golden Globe,2023,Golden Globe,2,acting,Black Panther: Wakanda Forever,female,Black,1958
+Carey Mulligan,Golden Globe,2023,Golden Globe,1,acting,She Said,female,White,1985
+Dolly de Leon,Golden Globe,2023,Golden Globe,1,acting,Triangle of Sadness,female,Asian,1969
+Jamie Lee Curtis,Golden Globe,2023,Golden Globe,1,acting,Everything Everywhere All at Once,female,White,1958
+Kerry Condon,Golden Globe,2023,Golden Globe,1,acting,The Banshees of Inisherin,female,White,1983
+Quinta Brunson,Golden Globe,2023,Golden Globe,2,acting,Abbott Elementary,female,Black,1989
+Selena Gomez,Golden Globe,2023,Golden Globe,1,acting,Only Murders in the Building,female,Latin,1992
+Kaley Cuoco,Golden Globe,2023,Golden Globe,1,acting,The Flight Attendant,female,White,1985
+Jenna Ortega,Golden Globe,2023,Golden Globe,1,acting,Wednesday,female,Latin,2002
+Jean Smart,Golden Globe,2023,Golden Globe,1,acting,Hacks,female,White,1951
+Amanda Seyfried,Golden Globe,2023,Golden Globe,2,acting,The Dropout,female,White,1985
+Jessica Chastain,Golden Globe,2023,Golden Globe,1,acting,George & Tammy,female,White,1977
+Julia Roberts,Golden Globe,2023,Golden Globe,1,acting,Gaslit,female,White,1967
+Lily James,Golden Globe,2023,Golden Globe,1,acting,Pam & Tommy,female,White,1989
+Zendaya,Golden Globe,2023,Golden Globe,2,acting,Euphoria,female,Black,1996
+Laura Linney,Golden Globe,2023,Golden Globe,1,acting,Ozark,female,White,1964
+Imelda Staunton,Golden Globe,2023,Golden Globe,1,acting,The Crown,female,White,1956
+Hilary Swank,Golden Globe,2023,Golden Globe,1,acting,Alaska Daily,female,White,1974
+Emma D’Arcy,Golden Globe,2023,Golden Globe,1,acting,House of the Dragon,female,White,1992
+Nicole Kidman,Golden Globe,2022,Golden Globe,2,acting,Being the Ricardos,female,White,1967
+Jessica Chastain,Golden Globe,2022,Golden Globe,1,acting,The Eyes of Tammy Faye,female,White,1977
+Kristen Stewart,Golden Globe,2022,Golden Globe,1,acting,Spencer,female,White,1990
+Lady Gaga,Golden Globe,2022,Golden Globe,1,acting,House of Gucci,female,White,1986
+Olivia Colman,Golden Globe,2022,Golden Globe,1,acting,The Lost Daughter,female,White,1974
+Ariana DeBose,Golden Globe,2022,Golden Globe,2,acting,West Side Story (2021),female,Mixed,1991
+Aunjanue Ellis,Golden Globe,2022,Golden Globe,1,acting,King Richard,female,Black,1969
+Caitriona Balfe,Golden Globe,2022,Golden Globe,1,acting,Belfast,female,White,1979
+Kirsten Dunst,Golden Globe,2022,Golden Globe,1,acting,The Power of the Dog,female,White,1982
+Ruth Negga,Golden Globe,2022,Golden Globe,1,acting,Passing,female,Black,1981
+Jean Smart,Golden Globe,2022,Golden Globe,2,acting,Hacks,female,White,1951
+Tracee Ellis Ross,Golden Globe,2022,Golden Globe,1,acting,Black-ish,female,Black,1972
+Elle Fanning,Golden Globe,2022,Golden Globe,1,acting,The Great,female,White,1998
+Hannah Einbinder,Golden Globe,2022,Golden Globe,1,acting,Hacks,female,White,1998
+Issa Rae,Golden Globe,2022,Golden Globe,1,acting,Insecure,female,Black,1985
+Kate Winslet,Golden Globe,2022,Golden Globe,2,acting,Mare of Easttown,female,White,1975
+Cynthia Erivo,Golden Globe,2022,Golden Globe,1,acting,Genius: Aretha,female,Black,1987
+Elizabeth Olsen,Golden Globe,2022,Golden Globe,1,acting,WandaVision,female,White,1989
+Jessica Chastain,Golden Globe,2022,Golden Globe,1,acting,Scenes from a Marriage-TV,female,White,1977
+Margaret Qualley,Golden Globe,2022,Golden Globe,1,acting,Maid,female,White,1994
+Michaela Jaé Rodriguez,Golden Globe,2022,Golden Globe,2,acting,Pose,female,Mixed,1990
+Uzo Aduba,Golden Globe,2022,Golden Globe,1,acting,In Treatment,female,Black,1981
+Jennifer Aniston,Golden Globe,2022,Golden Globe,1,acting,The Morning Show,female,White,1969
+Elisabeth Moss,Golden Globe,2022,Golden Globe,1,acting,The Handmaid's Tale,female,White,1982
+Christine Baranski,Golden Globe,2022,Golden Globe,1,acting,The Good Fight,female,White,1952
+Sarah Snook,Golden Globe,2022,Golden Globe,2,acting,Succession,female,White,1987
+Kaitlyn Dever,Golden Globe,2022,Golden Globe,1,acting,Dopesick,female,White,1996
+Jennifer Coolidge,Golden Globe,2022,Golden Globe,1,acting,The White Lotus,female,White,1961
+Hannah Waddingham,Golden Globe,2022,Golden Globe,1,acting,Ted Lasso,female,White,1974
+Andie MacDowell,Golden Globe,2022,Golden Globe,1,acting,Maid,female,White,1958
+Rachel Zegler,Golden Globe,2022,Golden Globe,2,acting,West Side Story (2021),female,Latin,2001
+Marion Cotillard,Golden Globe,2022,Golden Globe,1,acting,Annette,female,White,1975
+Jennifer Lawrence,Golden Globe,2022,Golden Globe,1,acting,Don't Look Up,female,White,1990
+Emma Stone,Golden Globe,2022,Golden Globe,1,acting,Cruella,female,White,1988
+Alana Haim,Golden Globe,2022,Golden Globe,1,acting,Licorice Pizza,female,White,1991
+Mikey Madison,BAFTA,2025,BAFTA,2,acting,Anora,female,White,1999
+Karla Sofía Gascón,BAFTA,2025,BAFTA,1,acting,Emilia Pérez,female,Mixed,1972
+Marianne Jean-Baptiste,BAFTA,2025,BAFTA,1,acting,Hard Truths,female,Mixed,1967
+Saoirse Ronan,BAFTA,2025,BAFTA,1,acting,The Outron,female,White,1994
+Demi Moore,BAFTA,2025,BAFTA,1,acting,The Substance,female,White,1962
+Cynthia Erivo,BAFTA,2025,BAFTA,1,acting,Wicked,female,Black,1987
+Emma Stone,BAFTA,2024,BAFTA,2,acting,Poor Things,female,White,1988
+Vivian Oparah,BAFTA,2024,BAFTA,1,acting,Rye Lane,female,Black,1996
+Sandra Hüller,BAFTA,2024,BAFTA,1,acting,Anatomy of a Fall,female,White,1978
+Margot Robbie,BAFTA,2024,BAFTA,1,acting,Barbie,female,White,1990
+Fantasia Barrino,BAFTA,2024,BAFTA,1,acting,The Color Purple,female,Black,1984
+Carey Mulligan,BAFTA,2024,BAFTA,1,acting,Maestro,female,White,1985
+Cate Blacnhett,BAFTA,2023,BAFTA,2,acting,TÁR ,female,White,1969
+Ana de Armas,BAFTA,2023,BAFTA,1,acting,Blonde,female,Latin,1988
+Michelle Yeoh,BAFTA,2023,BAFTA,1,acting,Everything Everywhere All at Once,female,Asian,1962
+Emma Thompson,BAFTA,2023,BAFTA,1,acting,"Good Luck to You, Leo Grande",female,White,1959
+Viola Davis,BAFTA,2023,BAFTA,1,acting,The Woman King,female,Black,1965
+Danielle Deadwyler,BAFTA,2023,BAFTA,1,acting,Till,female,Black,1982
+Joanna Scanlan,BAFTA,2022,BAFTA,2,acting,After Love,female,White,1961
+Alana Haim,BAFTA,2022,BAFTA,1,acting,Licorice Pizza,female,White,1991
+Emilia Jones,BAFTA,2022,BAFTA,1,acting,CODA,female,White,2002
+Lady Gaga,BAFTA,2022,BAFTA,1,acting,House of Gucci,female,White,1986
+Renate Reinsve,BAFTA,2022,BAFTA,1,acting,The Worst Person in the World,female,White,1987
+Tessa Thompson,BAFTA,2022,BAFTA,1,acting,Passing,female,Mixed,1983
+Adrien Brody,Oscar,2025,Oscar,2,acting,The Brutalist,male,White,1973
+Timothée Chalamet,Oscar,2025,Oscar,1,acting,A Complete Unknown,male,White,1995
+Colman Domingo,Oscar,2025,Oscar,1,acting,Sing Sing,male,Black,1969
+Ralph Fiennes,Oscar,2025,Oscar,1,acting,Conclave,male,White,1962
+Sebastian Stan,Oscar,2025,Oscar,1,acting,The Apprentice,male,White,1982
+Kieran Culkin,Oscar,2025,Oscar,2,acting,A Real Pain,male,White,1982
+Yura Borisov,Oscar,2025,Oscar,1,acting,Anora,male,White,1992
+Edward Norton,Oscar,2025,Oscar,1,acting,A Complete Unknown,male,White,1969
+Guy Pearce,Oscar,2025,Oscar,1,acting,The Brutalist,male,White,1967
+Jeremy Strong,Oscar,2025,Oscar,1,acting,The Apprentice,male,White,1978
+Cillian Murphy,Oscar,2024,Oscar,2,acting,Oppenheimer,male,White,1976
+Bradley Cooper,Oscar,2024,Oscar,1,acting,Maestro,male,White,1975
+Colman Domingo,Oscar,2024,Oscar,1,acting,Rustin,male,Black,1969
+Paul Giamatti,Oscar,2024,Oscar,1,acting,The Holdovers,male,White,1967
+Jeffrey Wright,Oscar,2024,Oscar,1,acting,American Fiction,male,Black,1965
+Robert Downey Jr.,Oscar,2024,Oscar,2,acting,Oppenheimer,male,White,1965
+Sterling K. Brown,Oscar,2024,Oscar,1,acting,American Fiction,male,Black,1976
+Robert De Niro,Oscar,2024,Oscar,1,acting,Killers of the Flower Moon,male,White,1943
+Ryan Gosling,Oscar,2024,Oscar,1,acting,Barbie,male,White,1980
+Mark Ruffalo,Oscar,2024,Oscar,1,acting,Poor Things,male,White,1967
+Brendan Fraser,Oscar,2023,Oscar,2,acting,The Whale,male,White,1968
+Austin Butler,Oscar,2023,Oscar,1,acting,Elvis,male,White,1991
+Colin Farrell,Oscar,2023,Oscar,1,acting,The Banshees of Inisherin,male,White,1976
+Paul Mescal,Oscar,2023,Oscar,1,acting,Aftersun,male,White,1996
+Bill Nighy,Oscar,2023,Oscar,1,acting,Living,male,White,1949
+Ke Huy Quan,Oscar,2023,Oscar,2,acting,Everything Everywhere All at Once,male,Asian,1971
+Brendan Gleeson,Oscar,2023,Oscar,1,acting,The Banshees of Inisherin,male,White,1955
+Brian Tyree Henry,Oscar,2023,Oscar,1,acting,Causeway,male,Black,1982
+Judd Hirsch,Oscar,2023,Oscar,1,acting,The Fabelmans,male,White,1935
+Barry Keoghan,Oscar,2023,Oscar,1,acting,The Banshees of Inisherin,male,White,1992
+Will Smith,Oscar,2022,Oscar,2,acting,King Richard,male,Black,1968
+Javier Bardem,Oscar,2022,Oscar,1,acting,Being the Ricardos,male,White,1969
+Benedict Cumberbatch,Oscar,2022,Oscar,1,acting,The Power of the Dog,male,White,1976
+Andrew Garfield,Oscar,2022,Oscar,1,acting,"tick, tick...BOOM!",male,White,1983
+Denzel Washington,Oscar,2022,Oscar,2,acting,The Tragedy of Macbeth,male,Black,1954
+Troy Kotsur,Oscar,2022,Oscar,1,acting,CODA,male,White,1968
+Ciarán Hinds,Oscar,2022,Oscar,1,acting,Belfast,male,White,1953
+Jesse Plemons,Oscar,2022,Oscar,1,acting,The Power of the Dog,male,White,1988
+J.K. Simmons,Oscar,2022,Oscar,1,acting,Being the Ricardos,male,White,1955
+Kodi Smit-McPhee,Oscar,2022,Oscar,1,acting,The Power of the Dog,male,White,1996
+Adrien Brody,Golden Globe,2025,Golden Globe,2,acting,The Brutalist,male,White,1973
+Timothée Chalamet,Golden Globe,2025,Golden Globe,1,acting,A Complete Unknown,male,White,1995
+Daniel Craig,Golden Globe,2025,Golden Globe,1,acting,Queer,male,White,1968
+Colman Domingo,Golden Globe,2025,Golden Globe,1,acting,Sing Sing,male,Black,1969
+Ralph Fiennes,Golden Globe,2025,Golden Globe,1,acting,Conclave,male,White,1962
+Sebastian Stan,Golden Globe,2025,Golden Globe,1,acting,The Apprentice,male,White,1982
+Gabriel LaBelle,Golden Globe,2025,Golden Globe,1,acting,Saturday Night,male,White,2002
+Glen Powell,Golden Globe,2025,Golden Globe,1,acting,Hit Man,male,White,1988
+Hugh Grant,Golden Globe,2025,Golden Globe,1,acting,Heretic,male,White,1960
+Jesse Eisenberg,Golden Globe,2025,Golden Globe,1,acting,A Real Pain,male,White,1983
+Jesse Plemons,Golden Globe,2025,Golden Globe,1,acting,Kinds of Kindness,male,White,1988
+Sebastian Stan,Golden Globe,2025,Golden Globe,2,acting,A Different Man,male,White,1982
+Denzel Washington,Golden Globe,2025,Golden Globe,1,acting,Gladiator II,male,Black,1954
+Edward Norton,Golden Globe,2025,Golden Globe,1,acting,A Complete Unknown,male,White,1969
+Guy Pearce,Golden Globe,2025,Golden Globe,1,acting,The Brutalist,male,White,1967
+Jeremy Strong,Golden Globe,2025,Golden Globe,1,acting,The Apprentice,male,White,1978
+Kieran Culkin,Golden Globe,2025,Golden Globe,2,acting,A Real Pain,male,White,1982
+Yura Borisov,Golden Globe,2025,Golden Globe,1,acting,Anora,male,White,1992
+Billy Bob Thornton,Golden Globe,2025,Golden Globe,1,acting,Landman,male,White,1955
+Donald Glover,Golden Globe,2025,Golden Globe,1,acting,Mr. & Mrs. Smith,male,Black,1983
+Eddie Redmayne,Golden Globe,2025,Golden Globe,1,acting,The Day of the Jackal,male,White,1982
+Gary Oldman,Golden Globe,2025,Golden Globe,1,acting,Slow Horses,male,White,1958
+Hiroyuki Sanada,Golden Globe,2025,Golden Globe,2,acting,Shogun,male,Asian,1960
+Jake Gyllenhaal,Golden Globe,2025,Golden Globe,1,acting,Presumed Innocent,male,White,1980
+Adam Brody,Golden Globe,2025,Golden Globe,1,acting,Nobody Wants This,male,White,1979
+Jason Segel,Golden Globe,2025,Golden Globe,1,acting,Shrinking,male,White,1980
+Jeremy Allen White,Golden Globe,2025,Golden Globe,2,acting,The Bear,male,White,1991
+Martin Short,Golden Globe,2025,Golden Globe,1,acting,Only Murders in the Building,male,White,1950
+Steve Martin,Golden Globe,2025,Golden Globe,1,acting,Only Murders in the Building,male,White,1945
+Ted Danson,Golden Globe,2025,Golden Globe,1,acting,A Man on the Inside,male,White,1947
+Andrew Scott,Golden Globe,2025,Golden Globe,1,acting,Ripley,male,White,1976
+Colin Farrell,Golden Globe,2025,Golden Globe,2,acting,The Penguin,male,White,1976
+Cooper Koch,Golden Globe,2025,Golden Globe,1,acting,Monsters: The Lyle and Erik Menendez Story,male,White,1996
+Ewan McGregor,Golden Globe,2025,Golden Globe,1,acting,A Gentleman in Moscow,male,White,1971
+Kevin Kline,Golden Globe,2025,Golden Globe,1,acting,Disclaimer,male,White,1947
+Richard Gadd,Golden Globe,2025,Golden Globe,1,acting,Baby Reindeer,male,White,1989
+Diego Luna,Golden Globe,2025,Golden Globe,1,acting,La Máquina,male,Latin,1979
+Ebon Moss–Bachrach,Golden Globe,2025,Golden Globe,1,acting,The Bear,male,White,1977
+Harrison Ford,Golden Globe,2025,Golden Globe,1,acting,Shrinking,male,White,1942
+Jack Lowden,Golden Globe,2025,Golden Globe,1,acting,Slow Horses,male,White,1990
+Javier Bardem,Golden Globe,2025,Golden Globe,1,acting,Monsters: The Lyle and Erik Menendez Story,male,Latin,1969
+Tadanobu Asano,Golden Globe,2025,Golden Globe,2,acting,Shogun,male,Asian,1973
+Andrew Scott,Golden Globe,2024,Golden Globe,1,acting,All of Us Strangers,male,White,1976
+Barry Keoghan,Golden Globe,2024,Golden Globe,1,acting,Saltburn,male,White,1992
+Bradley Cooper,Golden Globe,2024,Golden Globe,1,acting,Maestro,male,White,1975
+Cillian Murphy,Golden Globe,2024,Golden Globe,2,acting,Oppenheimer,male,White,1976
+Colman Domingo,Golden Globe,2024,Golden Globe,1,acting,Rustin,male,Mixed,1969
+Leonardo DiCaprio,Golden Globe,2024,Golden Globe,1,acting,Killers of the Flower Moon,male,White,1974
+Jeffrey Wright,Golden Globe,2024,Golden Globe,1,acting,American Fiction,male,Black,1965
+Joaquin Phoenix,Golden Globe,2024,Golden Globe,1,acting,Beau is Afraid,male,White,1974
+Matt Damon,Golden Globe,2024,Golden Globe,1,acting,Air,male,White,1970
+Nicolas Cage,Golden Globe,2024,Golden Globe,1,acting,Dream Scenario,male,White,1964
+Paul Giamatti,Golden Globe,2024,Golden Globe,2,acting,The Holdovers,male,White,1967
+Timothée Chalamet,Golden Globe,2024,Golden Globe,1,acting,Wonka,male,White,1995
+Charles Melton,Golden Globe,2024,Golden Globe,1,acting,May December,male,Mixed,1991
+Mark Ruffalo,Golden Globe,2024,Golden Globe,1,acting,Poor Things,male,White,1967
+Robert De Niro,Golden Globe,2024,Golden Globe,1,acting,Killers of the Flower Moon,male,White,1943
+Robert Downey Jr.,Golden Globe,2024,Golden Globe,2,acting,Oppenheimer,male,White,1965
+Ryan Gosling,Golden Globe,2024,Golden Globe,1,acting,Barbie,male,White,1980
+Willem Dafoe,Golden Globe,2024,Golden Globe,1,acting,Poor Things,male,White,1955
+Brian Cox,Golden Globe,2024,Golden Globe,1,acting,Succession,male,White,1946
+Dominic West,Golden Globe,2024,Golden Globe,1,acting,The Crown,male,White,1969
+Gary Oldman,Golden Globe,2024,Golden Globe,1,acting,Slow Horses,male,White,1958
+Jeremy Strong,Golden Globe,2024,Golden Globe,1,acting,Succession,male,White,1978
+Kieran Culkin,Golden Globe,2024,Golden Globe,2,acting,Succession,male,White,1982
+Pedro Pascal,Golden Globe,2024,Golden Globe,1,acting,The Last of Us,male,Latin,1975
+Bill Hader,Golden Globe,2024,Golden Globe,1,acting,Barry,male,White,1978
+Jason Segel,Golden Globe,2024,Golden Globe,1,acting,Shrinking,male,White,1980
+Jason Sudeikis,Golden Globe,2024,Golden Globe,1,acting,Ted Lasso,male,White,1975
+Jeremy Allen White,Golden Globe,2024,Golden Globe,2,acting,The Bear,male,White,1991
+Martin Short,Golden Globe,2024,Golden Globe,1,acting,Only Murders in the Building,male,White,1950
+Steve Martin,Golden Globe,2024,Golden Globe,1,acting,Only Murders in the Building,male,White,1945
+David Oyelowo,Golden Globe,2024,Golden Globe,1,acting,Lawmen: Bass Reeves,male,Black,1976
+Jon Hamm,Golden Globe,2024,Golden Globe,1,acting,Fargo,male,White,1971
+Matt Bomer,Golden Globe,2024,Golden Globe,1,acting,Fellow Travelers,male,White,1977
+Sam Claflin,Golden Globe,2024,Golden Globe,1,acting,Daisy Jones and the Six,male,White,1986
+Steven Yeun,Golden Globe,2024,Golden Globe,2,acting,Beef,male,Asian,1983
+Woody Harrelson,Golden Globe,2024,Golden Globe,1,acting,White House Plumbers,male,White,1961
+Alan Ruck,Golden Globe,2024,Golden Globe,1,acting,Succession,male,White,1956
+Alexander Skarsgård,Golden Globe,2024,Golden Globe,1,acting,Succession,male,White,1976
+Billy Crudup,Golden Globe,2024,Golden Globe,1,acting,The Morning Show,male,White,1968
+Ebon Moss–Bachrach,Golden Globe,2024,Golden Globe,1,acting,The Bear,male,White,1977
+James Marsden,Golden Globe,2024,Golden Globe,1,acting,Jury Duty,male,White,1973
+Matthew Macfadyen,Golden Globe,2024,Golden Globe,2,acting,Succession,male,White,1974
+Austin Butler,Golden Globe,2023,Golden Globe,2,acting,Elvis,male,White,1991
+Bill Nighy,Golden Globe,2023,Golden Globe,1,acting,Living,male,White,1949
+Brendan Fraser,Golden Globe,2023,Golden Globe,1,acting,The Whale,male,White,1968
+Hugh Jackman,Golden Globe,2023,Golden Globe,1,acting,The Son,male,White,1968
+Jeremy Pope,Golden Globe,2023,Golden Globe,1,acting,The Inspection,male,Black,1992
+Barry Keoghan,Golden Globe,2023,Golden Globe,1,acting,The Banshees of Inisherin,male,White,1992
+Brad Pitt,Golden Globe,2023,Golden Globe,1,acting,Babylon,male,White,1963
+Brendan Gleeson,Golden Globe,2023,Golden Globe,1,acting,The Banshees of Inisherin,male,White,1955
+Eddie Redmayne,Golden Globe,2023,Golden Globe,1,acting,The Good Nurse,male,White,1982
+Ke Huy Quan,Golden Globe,2023,Golden Globe,2,acting,Everything Everywhere All at Once,male,Asian,1971
+Adam Scott,Golden Globe,2023,Golden Globe,1,acting,Severance,male,White,1973
+Bob Odenkirk,Golden Globe,2023,Golden Globe,1,acting,Better Call Saul,male,White,1962
+Diego Luna,Golden Globe,2023,Golden Globe,1,acting,Andor,male,Latin,1979
+Jeff Bridges,Golden Globe,2023,Golden Globe,1,acting,The Old Man,male,White,1949
+Kevin Costner,Golden Globe,2023,Golden Globe,2,acting,Yellowstone,male,White,1955
+Bill Hader,Golden Globe,2023,Golden Globe,1,acting,Barry,male,White,1978
+Donald Glover,Golden Globe,2023,Golden Globe,1,acting,Atlanta,male,Black,1983
+Jeremy Allen White,Golden Globe,2023,Golden Globe,2,acting,The Bear,male,White,1991
+Martin Short,Golden Globe,2023,Golden Globe,1,acting,Only Murders in the Building,male,White,1950
+Steve Martin,Golden Globe,2023,Golden Globe,1,acting,Only Murders in the Building,male,White,1945
+Henry Winkler,Golden Globe,2023,Golden Globe,1,acting,Barry,male,White,1945
+John Lithgow,Golden Globe,2023,Golden Globe,1,acting,The Old Man,male,White,1945
+John Turturro,Golden Globe,2023,Golden Globe,1,acting,Severance,male,White,1957
+Jonathan Pryce,Golden Globe,2023,Golden Globe,1,acting,The Crown,male,White,1947
+Tyler Williams,Golden Globe,2023,Golden Globe,2,acting,Abbott Elementary,male,Black,1992
+Domhnall Gleeson,Golden Globe,2023,Golden Globe,1,acting,The Patient,male,White,1983
+F. Murray Abraham,Golden Globe,2023,Golden Globe,1,acting,The White Lotus,male,Mixed,1939
+Paul Walter Hauser,Golden Globe,2023,Golden Globe,2,acting,Black Bird,male,White,1986
+Richard Jenkins,Golden Globe,2023,Golden Globe,1,acting,Dahmer - Monster: The Jeffrey Dahmer Story,male,White,1947
+Seth Rogen,Golden Globe,2023,Golden Globe,1,acting,Pam & Tommy,male,White,1982
+Adam Driver,Golden Globe,2023,Golden Globe,1,acting,White Noise,male,White,1983
+Colin Farrell,Golden Globe,2023,Golden Globe,2,acting,The Banshees of Inisherin,male,White,1976
+Daniel Craig,Golden Globe,2023,Golden Globe,1,acting,Glass Onion: A Knives Out Mystery,male,White,1968
+Diego Calva,Golden Globe,2023,Golden Globe,1,acting,Babylon,male,Latin,1992
+Ralph Fiennes,Golden Globe,2023,Golden Globe,1,acting,The Menu,male,White,1962
+Andrew Garfield,Golden Globe,2023,Golden Globe,1,acting,Under the Banner of Heaven,male,White,1983
+Colin Firth,Golden Globe,2023,Golden Globe,1,acting,The Staircase,male,White,1960
+Evan Peters,Golden Globe,2023,Golden Globe,2,acting,Dahmer - Monster: The Jeffrey Dahmer Story,male,White,1987
+Sebastian Stan,Golden Globe,2023,Golden Globe,1,acting,Pam & Tommy,male,White,1982
+Taron Egerton,Golden Globe,2023,Golden Globe,1,acting,Black Bird,male,White,1989
+Benedict Cumberbatch,Golden Globe,2022,Golden Globe,1,acting,The Power of the Dog,male,White,1976
+Denzel Washington,Golden Globe,2022,Golden Globe,1,acting,The Tragedy of Macbeth,male,Black,1954
+Javier Bardem,Golden Globe,2022,Golden Globe,1,acting,Being the Ricardos,male,Latin,1969
+Mahershala Ali,Golden Globe,2022,Golden Globe,1,acting,Swan Song,male,Black,1974
+Will Smith,Golden Globe,2022,Golden Globe,2,acting,King Richard,male,Black,1968
+Ben Affleck,Golden Globe,2022,Golden Globe,1,acting,The Tender Bar,male,White,1972
+Ciarán Hinds,Golden Globe,2022,Golden Globe,1,acting,Belfast,male,White,1953
+Jamie Dornan,Golden Globe,2022,Golden Globe,1,acting,Belfast,male,White,1982
+Kodi Smit-McPhee,Golden Globe,2022,Golden Globe,2,acting,The Power of the Dog,male,White,1996
+Troy Kotsur,Golden Globe,2022,Golden Globe,1,acting,CODA,male,White,1968
+Billy Porter,Golden Globe,2022,Golden Globe,1,acting,Pose,male,Black,1969
+Brian Cox,Golden Globe,2022,Golden Globe,1,acting,Succession,male,White,1946
+Jeremy Strong,Golden Globe,2022,Golden Globe,2,acting,Succession,male,White,1978
+Lee Jung-jae,Golden Globe,2022,Golden Globe,1,acting,Squid Game,male,Asian,1972
+Omar Sy,Golden Globe,2022,Golden Globe,1,acting,Lupin,male,Black,1978
+Anthony Anderson,Golden Globe,2022,Golden Globe,1,acting,Black-ish,male,Black,1970
+Jason Sudeikis,Golden Globe,2022,Golden Globe,2,acting,Ted Lasso,male,White,1975
+Martin Short,Golden Globe,2022,Golden Globe,1,acting,Only Murders in the Building,male,White,1950
+Nicholas Hoult,Golden Globe,2022,Golden Globe,1,acting,The Great,male,White,1989
+Steve Martin,Golden Globe,2022,Golden Globe,1,acting,Only Murders in the Building,male,White,1945
+Billy Crudup,Golden Globe,2022,Golden Globe,1,acting,The Morning Show,male,White,1968
+Brett Goldstein,Golden Globe,2022,Golden Globe,1,acting,Ted Lasso,male,White,1980
+Kieran Culkin,Golden Globe,2022,Golden Globe,1,acting,Succession,male,White,1982
+Mark Duplass,Golden Globe,2022,Golden Globe,1,acting,The Morning Show,male,White,1976
+Oh Young-soo,Golden Globe,2022,Golden Globe,2,acting,Squid Game,male,Asian,1944
+Andrew Garfield,Golden Globe,2022,Golden Globe,2,acting,"tick, tick...BOOM!",male,White,1983
+Anthony Ramos,Golden Globe,2022,Golden Globe,1,acting,In the Heights,male,Latin,1991
+Cooper Hoffman,Golden Globe,2022,Golden Globe,1,acting,Licorice Pizza,male,White,2003
+Leonardo DiCaprio,Golden Globe,2022,Golden Globe,1,acting,Don't Look Up,male,White,1974
+Peter Dinklage,Golden Globe,2022,Golden Globe,1,acting,Cyrano,male,White,1969
+Ewan McGregor,Golden Globe,2022,Golden Globe,1,acting,Halston,male,White,1971
+Michael Keaton,Golden Globe,2022,Golden Globe,2,acting,Dopesick,male,White,1951
+Oscar Isaac,Golden Globe,2022,Golden Globe,1,acting,Scenes from a Marriage-TV,male,Latin,1979
+Paul Bettany,Golden Globe,2022,Golden Globe,1,acting,WandaVision,male,White,1971
+Tahar Rahim,Golden Globe,2022,Golden Globe,1,acting,The Serpent,male,Arab,1981
+Adrien Brody,BAFTA,2025,BAFTA,2,acting,The Brutalist,male,White,1973
+Timothée Chalamet,BAFTA,2025,BAFTA,1,acting,A Complete Unknown,male,White,1995
+Ralph Fiennes,BAFTA,2025,BAFTA,1,acting,Conclave,male,White,1962
+Hugh Grant,BAFTA,2025,BAFTA,1,acting,Heretic,male,White,1960
+Colman Domingo,BAFTA,2025,BAFTA,1,acting,Sing Sing,male,Black,1969
+Sebastian Stan,BAFTA,2025,BAFTA,1,acting,The Apprentice,male,White,1982
+Cillian Murphy,BAFTA,2024,BAFTA,2,acting,Oppenheimer,male,White,1976
+Bradley Cooper,BAFTA,2024,BAFTA,1,acting,Maestro,male,White,1975
+Teo Yoo,BAFTA,2024,BAFTA,1,acting,Past Lives,male,Asian,1979
+Colman Domingo,BAFTA,2024,BAFTA,1,acting,Rustin,male,Black,1969
+Barry Keoghan,BAFTA,2024,BAFTA,1,acting,Saltburn,male,White,1992
+Paul Giamatti,BAFTA,2024,BAFTA,1,acting,The Holdovers,male,White,1967
+Austin Butler,BAFTA,2023,BAFTA,2,acting,Elvis,male,White,1991
+Daryl McCormack,BAFTA,2023,BAFTA,1,acting,"Good Luck to You, Leo Grande",male,White,1993
+Bill Nighy,BAFTA,2023,BAFTA,1,acting,Living,male,White,1949
+Colin Farrell,BAFTA,2023,BAFTA,1,acting,The Banshees of Inisherin,male,White,1976
+Brendan Fraser,BAFTA,2023,BAFTA,1,acting,The Whale,male,White,1968
+Paul Mescal,BAFTA,2023,BAFTA,1,acting,Aftersun,male,White,1996
+Will Smith,BAFTA,2022,BAFTA,2,acting,King Richard,male,Black,1968
+Adeel Akhtar,BAFTA,2022,BAFTA,1,acting,Ali & Ava,male,Asian,1980
+Benedict Cumberbatch,BAFTA,2022,BAFTA,1,acting,The Power of the Dog,male,White,1976
+Leonardo DiCaprio,BAFTA,2022,BAFTA,1,acting,Don't Look Up,male,White,1974
+Mahershala Ali,BAFTA,2022,BAFTA,1,acting,Swan Song,male,Black,1974
+Stephen Graham,BAFTA,2022,BAFTA,1,acting,Boling Point,male,White,1973
+Sean Baker,Oscar,2025,Oscar,2,directing,Anora,male,White,1971
+Brady Corbet,Oscar,2025,Oscar,1,directing,The Brutalist,male,White,1988
+James Mangold,Oscar,2025,Oscar,1,directing,A Complete Unknown,male,White,1963
+Jacques Audiard,Oscar,2025,Oscar,1,directing,Emilia Pérez,male,White,1952
+Coralie Fargeat,Oscar,2025,Oscar,1,directing,The Substance,female,White,1976
+Christopher Nolan,Oscar,2024,Oscar,2,directing,Oppenheimer,male,White,1970
+Justine Triet,Oscar,2024,Oscar,1,directing,Anatomy of a Fall,female,White,1978
+Martin Scorsese,Oscar,2024,Oscar,1,directing,Killers of the Flower Moon,male,White,1942
+Yorgos Lanthimos,Oscar,2024,Oscar,1,directing,Poor Things,male,White,1973
+Jonathan Glazer,Oscar,2024,Oscar,1,directing,The Zone of Interest,male,White,1973
+Daniel Kwan,Oscar,2023,Oscar,2,directing,Everything Everywhere All at Once,male,Asian,1988
+Daniel Scheinert,Oscar,2023,Oscar,2,directing,Everything Everywhere All at Once,male,White,1987
+Martin McDonagh,Oscar,2023,Oscar,1,directing,The Banshees of Inisherin,male,White,1970
+Steven Spielberg,Oscar,2023,Oscar,1,directing,The Fabelmans,male,White,1946
+Todd Field,Oscar,2023,Oscar,1,directing,TÁR,male,White,1964
+Ruben Östlund,Oscar,2023,Oscar,1,directing,Triangle of Sadness,male,White,1974
+Jane Campion,Oscar,2022,Oscar,2,directing,The Power of the Dog,female,White,1954
+Kenneth Branagh,Oscar,2022,Oscar,1,directing,Belfast,male,White,1960
+Ryusuke Hamaguchi,Oscar,2022,Oscar,1,directing,Drive My Car,male,Asian,1978
+Paul Thomas Anderson,Oscar,2022,Oscar,1,directing,Licorice Pizza,male,White,1970
+Steven Spielberg,Oscar,2022,Oscar,1,directing,West Side Story,male,White,1946
+Brady Corbet,Golden Globes,2025,Golden Globes,2,directing,The Brutalist,male,White,1988
+Coralie Fargeat,Golden Globes,2025,Golden Globes,1,directing,The Substance,female,White,1976
+Edward Berger,Golden Globes,2025,Golden Globes,1,directing,Conclave,male,White,1970
+Jacques Audiard,Golden Globes,2025,Golden Globes,1,directing,Emilia Pérez,male,White,1952
+Payal Kapadia,Golden Globes,2025,Golden Globes,1,directing,All We Imagine as Light,female,Asian,1986
+Sean Baker,Golden Globes,2025,Golden Globes,1,directing,Anora,male,White,1986
+Christopher Nolan,Golden Globes,2024,Golden Globes,2,directing,Oppenheimer,male,White,1970
+Bradley Cooper,Golden Globes,2024,Golden Globes,1,directing,Maestro,male,White,1975
+Celine Song,Golden Globes,2024,Golden Globes,1,directing,Past Lives,female,Asian,1988
+Greta Gerwig,Golden Globes,2024,Golden Globes,1,directing,Barbie,female,White,1983
+Martin Scorsese,Golden Globes,2024,Golden Globes,1,directing,Killers of the Flower Moon,male,White,1942
+Yorgos Lanthimos,Golden Globes,2024,Golden Globes,1,directing,Poor Things,male,White,1973
+Steven Spielberg,Golden Globes,2023,Golden Globes,2,directing,The Fabelmans,male,White,1946
+Martin McDonagh,Golden Globes,2023,Golden Globes,1,directing,The Banshees of Inisherin,male,White,1970
+James Cameron,Golden Globes,2023,Golden Globes,1,directing,Avatar: The Way of Water,male,White,1954
+Daniel Kwan,Golden Globes,2023,Golden Globes,1,directing,Everything Everywhere All at Once,male,Asian,1988
+Daniel Scheinert,Golden Globes,2023,Golden Globes,1,directing,Everything Everywhere All at Once,male,White,1987
+Baz Luhrmann,Golden Globes,2023,Golden Globes,1,directing,Elvis,male,White,1962
+Jane Campion,Golden Globes,2022,Golden Globes,2,directing,The Power of the Dog,female,White,1954
+Denis Villeneuve,Golden Globes,2022,Golden Globes,1,directing,Dune,male,White,1967
+Kenneth Branagh,Golden Globes,2022,Golden Globes,1,directing,Belfast,male,White,1960
+Maggie Gyllenhaal,Golden Globes,2022,Golden Globes,1,directing,The Lost Daughter,female,White,1977
+Steven Spielberg,Golden Globes,2022,Golden Globes,1,directing,West Side Story (2021),male,White,1946
+Brady Crobet,BAFTA,2025,BAFTA,2,directing,The Brutalist,male,White,1988
+Jacques Audiard,BAFTA,2025,BAFTA,1,directing,Emilia Pérez,male,White,1952
+Sean Baker,BAFTA,2025,BAFTA,1,directing,Anora,male,White,1971
+Edward Berger,BAFTA,2025,BAFTA,1,directing,Conclave,male,White,1970
+Coralie Fargeat,BAFTA,2025,BAFTA,1,directing,The Substance,female,White,1976
+Denis Villeneuve,BAFTA,2025,BAFTA,1,directing,Dune: Part Two,male,White,1967
+Christopher Nolan,BAFTA,2024,BAFTA,2,directing,Oppenheimer,male,White,1970
+Bradley Cooper,BAFTA,2024,BAFTA,1,directing,Maestro,male,White,1975
+Jonathan Glazer,BAFTA,2024,BAFTA,1,directing,The Zone of Interest,male,White,1965
+Andrew Haigh,BAFTA,2024,BAFTA,1,directing,All of Us Strangers,male,White,1973
+Alexander Payne,BAFTA,2024,BAFTA,1,directing,The Holdovers,male,White,1961
+Justine Triet,BAFTA,2024,BAFTA,1,directing,Anatomy of a Fall,female,White,1978
+Edward Berger,BAFTA,2023,BAFTA,2,directing,All Quiet on the Western Front,male,White,1970
+Park Chan-wook,BAFTA,2023,BAFTA,1,directing,Decision to Leave,male,Asian,1963
+Todd Field,BAFTA,2023,BAFTA,1,directing,TÁR ,male,White,1964
+Daniel Kwan,BAFTA,2023,BAFTA,1,directing,Everything Everywhere All at Once,male,Asian,1988
+Daniel Scheinert,BAFTA,2023,BAFTA,1,directing,Everything Everywhere All at Once,male,White,1987
+Martin McDonagh,BAFTA,2023,BAFTA,1,directing,The Banshees of Inisherin,male,White,1970
+Gina Prince-Bythewood,BAFTA,2023,BAFTA,1,directing,The Woman King,female,Black,1969
+Jane Campion,BAFTA,2022,BAFTA,2,directing,The Power of the Dog,female,White,1954
+Audrey Diwan,BAFTA,2022,BAFTA,1,directing,Happening,female,Mixed,1980
+Julia Ducournau,BAFTA,2022,BAFTA,1,directing,Titane,female,White,1983
+Ryūsuke Hamaguchi,BAFTA,2022,BAFTA,1,directing,Drive My Car,male,Asian,1978
+Aleem Khan,BAFTA,2022,BAFTA,1,directing,After Love,male,Asian,1985
+Paul Thomas Anderson,BAFTA,2022,BAFTA,1,directing,Licorice Pizza,male,White,1970
+Peter Straughan,Oscar,2025,Oscar,2,writing,Conclave,male,White,1968
+James Mangold,Oscar,2025,Oscar,1,writing,A Complete Unknown,male,White,1963
+Jay Cocks,Oscar,2025,Oscar,1,writing,A Complete Unknown,male,White,1944
+Jacques Audiard,Oscar,2025,Oscar,1,writing,Emilia Pérez,male,White,1952
+Thomas Bidegain,Oscar,2025,Oscar,1,writing,Emilia Pérez,male,White,1976
+Léa Mysius,Oscar,2025,Oscar,1,writing,Emilia Pérez,female,White,1989
+Nicolas Livecchi,Oscar,2025,Oscar,1,writing,Emilia Pérez,male,White,1978
+RaMell Ross,Oscar,2025,Oscar,1,writing,Nickel Boys,male,Black,1982
+Joslyn Barnes,Oscar,2025,Oscar,1,writing,Nickel Boys,female,Black,NA
+Clint Bentley,Oscar,2025,Oscar,1,writing,Sing Sing,male,White,1985
+Greg Kwedar,Oscar,2025,Oscar,1,writing,Sing Sing,male,White,1980
+Clarence Maclin,Oscar,2025,Oscar,1,writing,Sing Sing,male,Black,1966
+"John ""Divine G"" Whitfield",Oscar,2025,Oscar,1,writing,Sing Sing,male,Black,1964
+Cord Jefferson,Oscar,2024,Oscar,2,writing,American Fiction,male,Black,1982
+Greta Gerwig,Oscar,2024,Oscar,1,writing,Barbie,female,White,1983
+Noah Baumbach,Oscar,2024,Oscar,1,writing,Barbie,male,White,1969
+Christopher Nolan,Oscar,2024,Oscar,1,writing,Oppenheimer,male,White,1970
+Tony McNamara,Oscar,2024,Oscar,1,writing,Poor Things,male,White,1967
+Jonathan Glazer,Oscar,2024,Oscar,1,writing,The Zone of Interest,male,White,1965
+Sarah Polley,Oscar,2023,Oscar,2,writing,Women Talking,female,White,1979
+Edward Berger,Oscar,2023,Oscar,1,writing,All Quiet on the Western Front,male,White,1970
+Lesley Paterson,Oscar,2023,Oscar,1,writing,All Quiet on the Western Front,female,White,1980
+Ian Stokell,Oscar,2023,Oscar,1,writing,All Quiet on the Western Front,male,White,1959
+Rian Johnson,Oscar,2023,Oscar,1,writing,Glass Onion: A Knives Out Mystery,male,White,1973
+Kazuo Ishiguro,Oscar,2023,Oscar,1,writing,Living,male,Asian,1954
+Ehren Kruger ,Oscar,2023,Oscar,1,writing,Top Gun: Maverick,male,White,1972
+Eric Warren Singer,Oscar,2023,Oscar,1,writing,Top Gun: Maverick,male,White,1978
+Christopher McQuarrie,Oscar,2023,Oscar,1,writing,Top Gun: Maverick,male,White,1968
+Peter Craig,Oscar,2023,Oscar,1,writing,Top Gun: Maverick,male,White,1969
+Justin Marks,Oscar,2023,Oscar,1,writing,Top Gun: Maverick,male,White,1980
+Siân Heder,Oscar,2022,Oscar,2,writing,CODA,female,White,1977
+Ryusuke Hamaguchi,Oscar,2022,Oscar,1,writing,Drive My Car,male,Asian,1978
+Takamasa Oe,Oscar,2022,Oscar,1,writing,Drive My Car,male,Asian,1981
+Jon Spaihts,Oscar,2022,Oscar,1,writing,Dune,male,White,1970
+Denis Villeneuve,Oscar,2022,Oscar,1,writing,Dune,male,White,1967
+Eric Roth,Oscar,2022,Oscar,1,writing,Dune,male,White,1945
+Maggie Gyllenhaal,Oscar,2022,Oscar,1,writing,The Lost Daughter,female,White,1977
+Jane Campion,Oscar,2022,Oscar,1,writing,The Power of the Dog,female,White,1954
+Sean Baker,Oscar,2025,Oscar,2,writing,Anora,male,White,1971
+Brady Corbet,Oscar,2025,Oscar,1,writing,The Brutalist,male,White,1988
+Mona Fastvold,Oscar,2025,Oscar,1,writing,The Brutalist,female,White,1986
+Jesse Eisenberg,Oscar,2025,Oscar,1,writing,A Real Pain,male,White,1983
+Moritz Binder,Oscar,2025,Oscar,1,writing,September 5,male,White,1982
+Tim Fehlbaum,Oscar,2025,Oscar,1,writing,September 5,male,White,1982
+Alex David,Oscar,2025,Oscar,1,writing,September 5,male,White,NA
+Coralie Fargeat,Oscar,2025,Oscar,1,writing,The Substance,female,White,1976
+Justine Triet,Oscar,2024,Oscar,2,writing,Anatomy of a Fall,female,White,1978
+Arthur Harari,Oscar,2024,Oscar,2,writing,Anatomy of a Fall,male,White,1981
+David Hemingson,Oscar,2024,Oscar,1,writing,The Holdovers,male,White,1969
+Bradley Cooper,Oscar,2024,Oscar,1,writing,Maestro,male,White,1975
+Josh Singer,Oscar,2024,Oscar,1,writing,Maestro,male,White,1972
+Samy Burch,Oscar,2024,Oscar,1,writing,May December,female,White,NA
+Alex Mechanik,Oscar,2024,Oscar,1,writing,May December,male,White,1986
+Celine Song,Oscar,2024,Oscar,1,writing,Past Lives,female,Asian,1988
+Daniel Kwan,Oscar,2023,Oscar,2,writing,Everything Everywhere All at Once,male,Asian,1988
+Daniel Scheinert,Oscar,2023,Oscar,2,writing,Everything Everywhere All at Once,male,White,1987
+Martin McDonagh,Oscar,2023,Oscar,1,writing,The Banshees of Inisherin,male,White,1970
+Steven Spielberg,Oscar,2023,Oscar,1,writing,The Fabelmans,male,White,1946
+Tony Kushner,Oscar,2023,Oscar,1,writing,The Fabelmans,male,White,1956
+Todd Field,Oscar,2023,Oscar,1,writing,TÁR,male,White,1964
+Ruben Östlund,Oscar,2023,Oscar,1,writing,Triangle of Sadness,male,White,1974
+Kenneth Branagh,Oscar,2022,Oscar,2,writing,Belfast,male,White,1975
+Adam McKay,Oscar,2022,Oscar,1,writing,Don't Look Up,male,White,1960
+David Sirota,Oscar,2022,Oscar,1,writing,Don't Look Up,male,White,1968
+Zach Baylin,Oscar,2022,Oscar,1,writing,King Richard,male,White,1978
+Paul Thomas Anderson,Oscar,2022,Oscar,1,writing,Licorice Pizza,male,White,1970
+Eskil Vogt,Oscar,2022,Oscar,1,writing,The Worst Person in the World,male,White,1974
+Joachim Trier,Oscar,2022,Oscar,1,writing,The Worst Person in the World,male,White,1974
+Peter Straughan,Golden Globe,2025,Golden Globe,2,writing,Conclave,male,White,1968
+Coralie Fargeat,Golden Globe,2025,Golden Globe,1,writing,The Substance,female,White,1976
+Brady Corbet,Golden Globe,2025,Golden Globe,1,writing,The Brutalist,male,White,1988
+Mona Fastvold,Golden Globe,2025,Golden Globe,1,writing,The Brutalist,female,White,1986
+Jacques Audiard,Golden Globe,2025,Golden Globe,1,writing,Emilia Pérez,male,White,1952
+Jesse Eisenberg,Golden Globe,2025,Golden Globe,1,writing,A Real Pain,male,White,1983
+Sean Baker,Golden Globe,2025,Golden Globe,1,writing,Anora,male,White,1971
+Justine Triet,Golden Globe,2024,Golden Globe,2,writing,Anatomy of a Fall,female,White,1978
+Arthur Harari,Golden Globe,2024,Golden Globe,2,writing,Anatomy of a Fall,male,White,1981
+Celine Song,Golden Globe,2024,Golden Globe,1,writing,Past Lives,female,Asian,1988
+Christopher Nolan,Golden Globe,2024,Golden Globe,1,writing,Oppenheimer,male,White,1970
+Eric Roth,Golden Globe,2024,Golden Globe,1,writing,Killers of the Flower Moon,male,White,1945
+Martin Scorsese,Golden Globe,2024,Golden Globe,1,writing,Killers of the Flower Moon,male,White,1942
+Greta Gerwig,Golden Globe,2024,Golden Globe,1,writing,Barbie,female,White,1983
+Noah Baumbach,Golden Globe,2024,Golden Globe,1,writing,Barbie,male,White,1969
+Tony McNamara,Golden Globe,2024,Golden Globe,1,writing,Poor Things,male,White,1967
+Martin McDonagh,Golden Globe,2023,Golden Globe,2,writing,The Banshees of Inisherin,male,White,1970
+Daniel Kwan,Golden Globe,2023,Golden Globe,1,writing,Everything Everywhere All at Once,male,Asian,1988
+Daniel Scheinert,Golden Globe,2023,Golden Globe,1,writing,Everything Everywhere All at Once,male,White,1987
+Sarah Polley,Golden Globe,2023,Golden Globe,1,writing,Women Talking,female,White,1979
+Steven Spielberg,Golden Globe,2023,Golden Globe,1,writing,The Fabelmans,male,White,1946
+Tony Kushner,Golden Globe,2023,Golden Globe,1,writing,The Fabelmans,male,White,1956
+Todd Field,Golden Globe,2023,Golden Globe,1,writing,TÁR,male,White,1964
+Kenneth Branagh,Golden Globe,2022,Golden Globe,2,writing,Belfast,male,White,1960
+Paul Thomas Anderson,Golden Globe,2022,Golden Globe,1,writing,Licorice Pizza,male,White,1970
+Jane Campion,Golden Globe,2022,Golden Globe,1,writing,The Power of the Dog,female,White,1954
+Adam McKay,Golden Globe,2022,Golden Globe,1,writing,Don't Look Up,male,White,1968
+Aaron Sorkin,Golden Globe,2022,Golden Globe,1,writing,Being the Ricardos,male,White,1961
+Peter Straughan,BAFTA,2025,BAFTA,2,writing,Conclave,male,White,1968
+James Mangold,BAFTA,2025,BAFTA,1,writing,A Complete Unknown,male,White,1963
+Jay Cocks,BAFTA,2025,BAFTA,1,writing,A Complete Unknown,male,White,1944
+Jacques Audiard,BAFTA,2025,BAFTA,1,writing,Emilia Pérez,male,White,1952
+RaMell Ross,BAFTA,2025,BAFTA,1,writing,Nickel Boys,male,Black,1982
+Joslyn Barnes,BAFTA,2025,BAFTA,1,writing,Nickel Boys,female,White,NA
+Clint Bentley,BAFTA,2025,BAFTA,1,writing,Sing Sing,male,White,1985
+Greg Kwedar,BAFTA,2025,BAFTA,1,writing,Sing Sing,male,White,1984
+Clarence Maclin,BAFTA,2025,BAFTA,1,writing,Sing Sing,male,Black,1966
+"ohn ""Divine G"" Whitfield",BAFTA,2025,BAFTA,1,writing,Sing Sing,male,Black,1964
+Cord Jefferson,BAFTA,2024,BAFTA,2,writing,American Fiction,male,Black,1982
+Andrew Haigh,BAFTA,2024,BAFTA,1,writing,All of Us Strangers,male,White,1973
+Christopher Nolan,BAFTA,2024,BAFTA,1,writing,Oppenheimer,male,White,1970
+Tony McNamara,BAFTA,2024,BAFTA,1,writing,Poor Things,male,White,1967
+Jonathan Glazer,BAFTA,2024,BAFTA,1,writing,The Zone of Interest,male,White,1965
+Edward Berger,BAFTA,2023,BAFTA,2,writing,All Quiet on the Western Front,male ,White,1970
+Ian Stokell,BAFTA,2023,BAFTA,2,writing,All Quiet on the Western Front,male,White,1959
+Lesley Paterson,BAFTA,2023,BAFTA,2,writing,All Quiet on the Western Front,female,White,1980
+Kazuo Ishiguro,BAFTA,2023,BAFTA,1,writing,Living,male,Asian,1954
+Rebecca Lenkiewicz,BAFTA,2023,BAFTA,1,writing,She Said,female,White,1968
+Colm Bairéad,BAFTA,2023,BAFTA,1,writing,The Quiet Girl,male,White,1981
+Samuel D Hunter,BAFTA,2023,BAFTA,1,writing,The Whale,male,White,1981
+Siân Heder,BAFTA,2022,BAFTA,2,writing,CODA,female,White,1977
+Maggie Gyllenhaal,BAFTA,2022,BAFTA,1,writing,The Lost Daughter,female,White,1977
+Jane Campion,BAFTA,2022,BAFTA,1,writing,The Power of the Dog,female,White,1954
+Ryūsuke Hamaguchi,BAFTA,2022,BAFTA,1,writing,Drive My Car,male,Asian,1978
+Takamasa Oe,BAFTA,2022,BAFTA,1,writing,Drive My Car,male,Asian,1981
+Eric Roth,BAFTA,2022,BAFTA,1,writing,Dune,male,White,1945
+Jon Spaihts,BAFTA,2022,BAFTA,1,writing,Dune,male,White,1970
+Denis Villeneuve,BAFTA,2022,BAFTA,1,writing,Dune,male,White,1967
+Jesse Eisenberg,BAFTA,2025,BAFTA,2,writing,A Real Pain,male ,White,1983
+Sean Baker,BAFTA,2025,BAFTA,1,writing,Anora,male ,White,1971
+Rich Peppiatt,BAFTA,2025,BAFTA,1,writing,Kneecap,male ,White,1981
+Naoise Ó Cairealláin,BAFTA,2025,BAFTA,1,writing,Kneecap,male ,White,1994
+Liam Óg Ó HAnnaidh,BAFTA,2025,BAFTA,1,writing,Kneecap,male ,White,1997
+J.J. Ó Dochartaigh,BAFTA,2025,BAFTA,1,writing,Kneecap,male ,White,1988
+Brady Corbet,BAFTA,2025,BAFTA,1,writing,The Brutalist,male ,White,1988
+Mona Fastvold,BAFTA,2025,BAFTA,1,writing,The Brutalist,female,White,1981
+Coralie Fargeat,BAFTA,2025,BAFTA,1,writing,The Substance,female,White,1976
+Justine Triet,BAFTA,2024,BAFTA,2,writing,Anatomy of a Fall,female,White,1978
+Arthur Harari,BAFTA,2024,BAFTA,2,writing,Anatomy of a Fall,male ,White,1981
+Greta Gerwig,BAFTA,2024,BAFTA,1,writing,Barbie,female,White,1983
+Noah Baumbach,BAFTA,2024,BAFTA,1,writing,Barbie,male ,White,1969
+David Hemingson,BAFTA,2024,BAFTA,1,writing,The Holdovers,male ,White,1964
+Bradley Cooper,BAFTA,2024,BAFTA,1,writing,Maestro,male ,White,1975
+Josh Singer,BAFTA,2024,BAFTA,1,writing,Maestro,male ,White,1972
+Celine Song,BAFTA,2024,BAFTA,1,writing,Past Lives,female,Asian,1988
+Martin McDonagh,BAFTA,2023,BAFTA,2,writing,The Banshees of Inisherin,male,White,1970
+Daniel Kwan,BAFTA,2023,BAFTA,1,writing,Everything Everywhere All at Once,male,Asian,1988
+Daniel Scheinert,BAFTA,2023,BAFTA,1,writing,Everything Everywhere All at Once,male,White,1987
+Todd Field,BAFTA,2023,BAFTA,1,writing,TÁR ,male,White,1964
+Tony Kushner,BAFTA,2023,BAFTA,1,writing,The Fabelmans,male,White,1956
+Steven Spielberg,BAFTA,2023,BAFTA,1,writing,The Fabelmans,male,White,1946
+Ruben Östlund,BAFTA,2023,BAFTA,1,writing,Triangle of Sadness,male,White,1974
+Paul Thomas Anderson,BAFTA,2022,BAFTA,2,writing,Licorice Pizza,male,White,1970
+Zach Baylin,BAFTA,2022,BAFTA,1,writing,King Richard,male,White,1980
+Aaron Sorkin,BAFTA,2022,BAFTA,1,writing,Being the Ricardos,male,White,1961
+Kenneth Branagh,BAFTA,2022,BAFTA,1,writing,Belfast,male,White,1960
+Adam McKay,BAFTA,2022,BAFTA,1,writing,Don't Look Up,male,White,1968
