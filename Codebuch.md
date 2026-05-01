@@ -1,8 +1,4 @@
-Alles klar, hier ist dein **bereinigtes Codebuch ohne Trennlinien**, sauber für GitHub und genau nach deinen Anforderungen:
-
----
-
-# Awards_Netzwerk – Codebuch
+Codebuch
 
 ## Forschungsinteresse
 
