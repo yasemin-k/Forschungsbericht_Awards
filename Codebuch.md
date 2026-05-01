@@ -46,7 +46,7 @@ from
 Name der Person
 
 to
-Award-Event inklusive Jahr (z. B. oscar_2024)
+Award-Event (z. B. Oscar, BAFTA, Golden Globe)
 
 year
 Jahr der Preisverleihung
@@ -55,12 +55,12 @@ award
 Art des Awards (oscar, golden_globe, bafta)
 
 weight
-Gewicht der Beziehung
-1 = nominiert
-2 = gewonnen
+Gewichtung der Beziehung
+1 = Nominierung
+2 = Gewinn
 
 category
-Kategorie der Auszeichnung (z. B. actor, actress, supporting_actor, supporting_actress, writing, directing)
+Kategorie der Auszeichnung (z. B. actor, actress, supporting_actor, writing, directing)
 
 project
 Film/Projekt
