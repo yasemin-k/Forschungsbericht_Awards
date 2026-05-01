@@ -8,16 +8,16 @@ Im Zentrum steht der Matthäus-Effekt bei Nominierungen und Auszeichnungen in de
 
 ## Hypothesen
 
-H1 – Matthäus-Effekt
+H1 – Matthäus-Effekt:
 Personen mit früherer Award-Anerkennung bei den Golden Globes oder BAFTA (Nominierung oder Gewinn) haben eine höhere Wahrscheinlichkeit für spätere Oscar-Nominierungen oder -Gewinne.
 
-H2 – Diversität
+H2 – Diversität:
 Wie divers sind nominierte und ausgezeichnete Personen hinsichtlich Ethnie?
 
-H3 – Alter
+H3 – Alter:
 Unterscheiden sich nominierte und ausgezeichnete Personen im Durchschnittsalter zwischen Männern und Frauen?
 
-H4 – Geschlecht
+H4 – Geschlecht:
 Wie verteilt sich das Geschlecht in gemischten Kategorien?
 
 ## Datengrundlage
@@ -42,46 +42,46 @@ bipartites Netzwerk (Personen und Award-Events)
 
 Jede Zeile beschreibt eine Beziehung zwischen einer Person und einem Award-Event.
 
-from
+from:
 Name der Person
 
-to
+to:
 Award-Event (z. B. Oscar, BAFTA, Golden Globe)
 
-year
+year:
 Jahr der Preisverleihung
 
-award
+award:
 Art des Awards (oscar, golden_globe, bafta)
 
-weight
+weight:
 Gewichtung der Beziehung
 1 = Nominierung
 2 = Gewinn
 
-category
+category:
 Kategorie der Auszeichnung (z. B. actor, actress, supporting_actor, writing, directing)
 
-project
+project:
 Film/Projekt
 
 ## Node-Liste (nodelist.csv)
 
 Metadaten zu allen Knoten im Netzwerk.
 
-id
+id:
 Name des Knotens
 
-type
+type:
 Knotentyp (person, award_event)
 
-sex
+sex:
 Geschlecht (male, female, NA für award_event)
 
-ethnicity
+ethnicity:
 Ethnische Zuordnung (white, black, asian, latin, mixed, NA)
 
-year_of_birth
+year_of_birth:
 Geburtsjahr (numerisch, NA für award_event)
 
 ## Modellierungsentscheidungen
