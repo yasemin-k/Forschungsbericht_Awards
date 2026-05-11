@@ -1,0 +1,667 @@
+from,to,year,award,weight,category
+Aaron Sorkin,Golden Globe,2022,Golden Globe,1,writing
+Aaron Sorkin,BAFTA,2022,BAFTA,1,writing
+Abby Elliott,Golden Globe,2024,Golden Globe,1,acting
+Adam Brody,Golden Globe,2025,Golden Globe,1,acting
+Adam Driver,Golden Globe,2023,Golden Globe,1,acting
+Adam McKay,Oscar,2022,Oscar,1,writing
+Adam McKay,Golden Globe,2022,Golden Globe,1,writing
+Adam McKay,BAFTA,2022,BAFTA,1,writing
+Adam Scott,Golden Globe,2023,Golden Globe,1,acting
+Adeel Akhtar,BAFTA,2022,BAFTA,1,acting
+Adrien Brody,Oscar,2025,Oscar,2,acting
+Adrien Brody,Golden Globe,2025,Golden Globe,2,acting
+Adrien Brody,BAFTA,2025,BAFTA,2,acting
+Ala Haim,Golden Globe,2022,Golden Globe,1,acting
+Ala Haim,BAFTA,2022,BAFTA,1,acting
+Alan Ruck,Golden Globe,2024,Golden Globe,1,acting
+Aleem Khan,BAFTA,2022,BAFTA,1,directing
+Alex David,Oscar,2025,Oscar,1,writing
+Alex Mechanik,Oscar,2024,Oscar,1,writing
+Alexander Payne,BAFTA,2024,BAFTA,1,directing
+Alexander Skarsgård,Golden Globe,2024,Golden Globe,1,acting
+Ali Wong,Golden Globe,2024,Golden Globe,2,acting
+Allison Janney,Golden Globe,2025,Golden Globe,1,acting
+Alma Pöysti,Golden Globe,2024,Golden Globe,1,acting
+Amanda Seyfried,Golden Globe,2023,Golden Globe,2,acting
+America Ferrera,Oscar,2024,Oscar,1,acting
+Amy Adams,Golden Globe,2025,Golden Globe,1,acting
+An Sawai,Golden Globe,2025,Golden Globe,2,acting
+Ana de Armas,Oscar,2023,Oscar,1,acting
+Ana de Armas,Golden Globe,2023,Golden Globe,1,acting
+Ana de Armas,BAFTA,2023,BAFTA,1,acting
+Andie MacDowell,Golden Globe,2022,Golden Globe,1,acting
+Andrea Riseborough,Oscar,2023,Oscar,1,acting
+Andrew Garfield,Oscar,2022,Oscar,1,acting
+Andrew Garfield,Golden Globe,2022,Golden Globe,2,acting
+Andrew Garfield,Golden Globe,2023,Golden Globe,1,acting
+Andrew Haigh,BAFTA,2024,BAFTA,1,directing
+Andrew Haigh,BAFTA,2024,BAFTA,1,writing
+Andrew Scott,Golden Globe,2024,Golden Globe,1,acting
+Andrew Scott,Golden Globe,2025,Golden Globe,1,acting
+Angela Bassett,Oscar,2023,Oscar,1,acting
+Angela Bassett,Golden Globe,2023,Golden Globe,2,acting
+Angelina Jolie,Golden Globe,2025,Golden Globe,1,acting
+Annette Bening,Oscar,2024,Oscar,1,acting
+Annette Bening,Golden Globe,2024,Golden Globe,1,acting
+Anthony Anderson,Golden Globe,2022,Golden Globe,1,acting
+Anthony Ramos,Golden Globe,2022,Golden Globe,1,acting
+Anya Taylor-Joy,Golden Globe,2023,Golden Globe,1,acting
+Ariana DeBose,Oscar,2022,Oscar,2,acting
+Ariana DeBose,Golden Globe,2022,Golden Globe,2,acting
+Ariana Grande,Oscar,2025,Oscar,1,acting
+Ariana Grande,Golden Globe,2025,Golden Globe,1,acting
+Arthur Harari,Oscar,2024,Oscar,2,writing
+Arthur Harari,Golden Globe,2024,Golden Globe,2,writing
+Arthur Harari,BAFTA,2024,BAFTA,2,writing
+Audrey Diwan,BAFTA,2022,BAFTA,1,directing
+Aunjanue Ellis,Oscar,2022,Oscar,1,acting
+Aunjanue Ellis,Golden Globe,2022,Golden Globe,1,acting
+Austin Butler,Oscar,2023,Oscar,1,acting
+Austin Butler,Golden Globe,2023,Golden Globe,2,acting
+Austin Butler,BAFTA,2023,BAFTA,2,acting
+Ayo Edebiri,Golden Globe,2025,Golden Globe,1,acting
+Ayo Edebiri,Golden Globe,2024,Golden Globe,2,acting
+Barry Keoghan,Golden Globe,2024,Golden Globe,1,acting
+Barry Keoghan,BAFTA,2024,BAFTA,1,acting
+Barry Keoghan,Oscar,2023,Oscar,1,acting
+Barry Keoghan,Golden Globe,2023,Golden Globe,1,acting
+Baz Luhrmann,Golden Globe,2023,Golden Globe,1,directing
+Bella Ramsey,Golden Globe,2024,Golden Globe,1,acting
+Ben Affleck,Golden Globe,2022,Golden Globe,1,acting
+Benedict Cumberbatch,Oscar,2022,Oscar,1,acting
+Benedict Cumberbatch,Golden Globe,2022,Golden Globe,1,acting
+Benedict Cumberbatch,BAFTA,2022,BAFTA,1,acting
+Bill Hader,Golden Globe,2024,Golden Globe,1,acting
+Bill Hader,Golden Globe,2023,Golden Globe,1,acting
+Bill Nighy,Oscar,2023,Oscar,1,acting
+Bill Nighy,Golden Globe,2023,Golden Globe,1,acting
+Bill Nighy,BAFTA,2023,BAFTA,1,acting
+Billy Bob Thornton,Golden Globe,2025,Golden Globe,1,acting
+Billy Crudup,Golden Globe,2024,Golden Globe,1,acting
+Billy Crudup,Golden Globe,2022,Golden Globe,1,acting
+Billy Porter,Golden Globe,2022,Golden Globe,1,acting
+Bob Odenkirk,Golden Globe,2023,Golden Globe,1,acting
+Brad Pitt,Golden Globe,2023,Golden Globe,1,acting
+Bradley Cooper,Oscar,2024,Oscar,1,acting
+Bradley Cooper,Golden Globe,2024,Golden Globe,1,acting
+Bradley Cooper,BAFTA,2024,BAFTA,1,acting
+Bradley Cooper,Golden Globe,2024,Golden Globe,1,directing
+Bradley Cooper,BAFTA,2024,BAFTA,1,directing
+Bradley Cooper,Oscar,2024,Oscar,1,writing
+Bradley Cooper,BAFTA,2024,BAFTA,1,writing
+Brady Corbet,Oscar,2025,Oscar,1,directing
+Brady Corbet,Golden Globe,2025,Golden Globe,2,directing
+Brady Corbet,Oscar,2025,Oscar,1,writing
+Brady Corbet,Golden Globe,2025,Golden Globe,1,writing
+Brady Corbet,BAFTA,2025,BAFTA,1,writing
+Brady Corbet,BAFTA,2025,BAFTA,2,directing
+Brendan Fraser,Oscar,2023,Oscar,2,acting
+Brendan Fraser,Golden Globe,2023,Golden Globe,1,acting
+Brendan Fraser,BAFTA,2023,BAFTA,1,acting
+Brendan Gleeson,Oscar,2023,Oscar,1,acting
+Brendan Gleeson,Golden Globe,2023,Golden Globe,1,acting
+Brett Goldstein,Golden Globe,2022,Golden Globe,1,acting
+Brian Cox,Golden Globe,2024,Golden Globe,1,acting
+Brian Cox,Golden Globe,2022,Golden Globe,1,acting
+Brian Tyree Henry,Oscar,2023,Oscar,1,acting
+Brie Larson,Golden Globe,2024,Golden Globe,1,acting
+Cailee Spaeny,Golden Globe,2024,Golden Globe,1,acting
+Caitriona Balfe,Golden Globe,2022,Golden Globe,1,acting
+Carey Mulligan,Oscar,2024,Oscar,1,acting
+Carey Mulligan,Golden Globe,2024,Golden Globe,1,acting
+Carey Mulligan,BAFTA,2024,BAFTA,1,acting
+Carey Mulligan,Golden Globe,2023,Golden Globe,1,acting
+Cate Blanchett,Golden Globe,2025,Golden Globe,1,acting
+Cate Blanchett,Oscar,2023,Oscar,1,acting
+Cate Blanchett,Golden Globe,2023,Golden Globe,2,acting
+Cate Blanchett,BAFTA,2023,BAFTA,2,acting
+Celine Song,Golden Globe,2024,Golden Globe,1,directing
+Celine Song,Oscar,2024,Oscar,1,writing
+Celine Song,Golden Globe,2024,Golden Globe,1,writing
+Celine Song,BAFTA,2024,BAFTA,1,writing
+Charles Melton,Golden Globe,2024,Golden Globe,1,acting
+Christina Ricci,Golden Globe,2024,Golden Globe,1,acting
+Christine Baranski,Golden Globe,2022,Golden Globe,1,acting
+Christopher McQuarrie,Oscar,2023,Oscar,1,writing
+Christopher Nolan,Oscar,2024,Oscar,2,directing
+Christopher Nolan,Golden Globe,2024,Golden Globe,2,directing
+Christopher Nolan,BAFTA,2024,BAFTA,2,directing
+Christopher Nolan,Oscar,2024,Oscar,1,writing
+Christopher Nolan,Golden Globe,2024,Golden Globe,1,writing
+Christopher Nolan,BAFTA,2024,BAFTA,1,writing
+Ciarán Hinds,Oscar,2022,Oscar,1,acting
+Ciarán Hinds,Golden Globe,2022,Golden Globe,1,acting
+Cillian Murphy,Oscar,2024,Oscar,2,acting
+Cillian Murphy,Golden Globe,2024,Golden Globe,2,acting
+Cillian Murphy,BAFTA,2024,BAFTA,2,acting
+Clarence Maclin,Oscar,2025,Oscar,1,writing
+Clarence Maclin,BAFTA,2025,BAFTA,1,writing
+Clint Bentley,Oscar,2025,Oscar,1,writing
+Clint Bentley,BAFTA,2025,BAFTA,1,writing
+Colin Farrell,Oscar,2023,Oscar,1,acting
+Colin Farrell,Golden Globe,2023,Golden Globe,2,acting
+Colin Farrell,BAFTA,2023,BAFTA,1,acting
+Colin Farrell,Golden Globe,2025,Golden Globe,2,acting
+Colin Firth,Golden Globe,2023,Golden Globe,1,acting
+Colm Bairéad,BAFTA,2023,BAFTA,1,writing
+Colman Domingo,Oscar,2024,Oscar,1,acting
+Colman Domingo,Golden Globe,2024,Golden Globe,1,acting
+Colman Domingo,BAFTA,2024,BAFTA,1,acting
+Colman Domingo,Oscar,2025,Oscar,1,acting
+Colman Domingo,Golden Globe,2025,Golden Globe,1,acting
+Colman Domingo,BAFTA,2025,BAFTA,1,acting
+Cooper Hoffman,Golden Globe,2022,Golden Globe,1,acting
+Cooper Koch,Golden Globe,2025,Golden Globe,1,acting
+Coralie Fargeat,Oscar,2025,Oscar,1,directing
+Coralie Fargeat,Golden Globe,2025,Golden Globe,1,directing
+Coralie Fargeat,BAFTA,2025,BAFTA,1,directing
+Coralie Fargeat,Oscar,2025,Oscar,1,writing
+Coralie Fargeat,Golden Globe,2025,Golden Globe,1,writing
+Coralie Fargeat,BAFTA,2025,BAFTA,1,writing
+Cord Jefferson,Oscar,2024,Oscar,2,writing
+Cord Jefferson,BAFTA,2024,BAFTA,2,writing
+Cristin Milioti,Golden Globe,2025,Golden Globe,1,acting
+Cynthia Erivo,Golden Globe,2022,Golden Globe,1,acting
+Cynthia Erivo,Oscar,2025,Oscar,1,acting
+Cynthia Erivo,Golden Globe,2025,Golden Globe,1,acting
+Cynthia Erivo,BAFTA,2025,BAFTA,1,acting
+Da'Vine Joy Randolph,Oscar,2024,Oscar,2,acting
+Da'Vine Joy Randolph,Golden Globe,2024,Golden Globe,2,acting
+Daisy Edgar-Jones,Golden Globe,2023,Golden Globe,1,acting
+Dakota Fanning,Golden Globe,2025,Golden Globe,1,acting
+Daniel Craig,Golden Globe,2023,Golden Globe,1,acting
+Daniel Craig,Golden Globe,2025,Golden Globe,1,acting
+Daniel Kwan,Oscar,2023,Oscar,2,directing
+Daniel Kwan,Golden Globe,2023,Golden Globe,1,directing
+Daniel Kwan,BAFTA,2023,BAFTA,1,directing
+Daniel Kwan,Oscar,2023,Oscar,2,writing
+Daniel Kwan,Golden Globe,2023,Golden Globe,1,writing
+Daniel Kwan,BAFTA,2023,BAFTA,1,writing
+Daniel Scheinert,Oscar,2023,Oscar,2,directing
+Daniel Scheinert,Golden Globe,2023,Golden Globe,1,directing
+Daniel Scheinert,BAFTA,2023,BAFTA,1,directing
+Daniel Scheinert,Oscar,2023,Oscar,2,writing
+Daniel Scheinert,Golden Globe,2023,Golden Globe,1,writing
+Daniel Scheinert,BAFTA,2023,BAFTA,1,writing
+Danielle Brooks,Oscar,2024,Oscar,1,acting
+Danielle Brooks,Golden Globe,2024,Golden Globe,1,acting
+Danielle Deadwyler,BAFTA,2023,BAFTA,1,acting
+Daryl McCormack,BAFTA,2023,BAFTA,1,acting
+David Hemingson,Oscar,2024,Oscar,1,writing
+David Hemingson,BAFTA,2024,BAFTA,1,writing
+David Oyelowo,Golden Globe,2024,Golden Globe,1,acting
+David Sirota,Oscar,2022,Oscar,1,writing
+Demi Moore,Oscar,2025,Oscar,1,acting
+Demi Moore,Golden Globe,2025,Golden Globe,2,acting
+Demi Moore,BAFTA,2025,BAFTA,1,acting
+Denis Villeneuve,Golden Globe,2022,Golden Globe,1,directing
+Denis Villeneuve,Oscar,2022,Oscar,1,writing
+Denis Villeneuve,BAFTA,2022,BAFTA,1,writing
+Denis Villeneuve,BAFTA,2025,BAFTA,1,directing
+Denzel Washington,Golden Globe,2025,Golden Globe,1,acting
+Denzel Washington,Oscar,2022,Oscar,2,acting
+Denzel Washington,Golden Globe,2022,Golden Globe,1,acting
+Diego Calva,Golden Globe,2023,Golden Globe,1,acting
+Diego Luna,Golden Globe,2023,Golden Globe,1,acting
+Diego Luna,Golden Globe,2025,Golden Globe,1,acting
+Dolly de Leon,Golden Globe,2023,Golden Globe,1,acting
+Domhnall Gleeson,Golden Globe,2023,Golden Globe,1,acting
+Dominic West,Golden Globe,2024,Golden Globe,1,acting
+Donald Glover,Golden Globe,2023,Golden Globe,1,acting
+Donald Glover,Golden Globe,2025,Golden Globe,1,acting
+Ebon Moss–Bachrach,Golden Globe,2025,Golden Globe,1,acting
+Ebon Moss–Bachrach,Golden Globe,2024,Golden Globe,1,acting
+Eddie Redmayne,Golden Globe,2025,Golden Globe,1,acting
+Eddie Redmayne,Golden Globe,2023,Golden Globe,1,acting
+Edward Berger,BAFTA,2023,BAFTA,2,directing
+Edward Berger,Oscar,2023,Oscar,1,writing
+Edward Berger,BAFTA,2023,BAFTA,2,writing
+Edward Berger,Golden Globe,2025,Golden Globe,1,directing
+Edward Berger,BAFTA,2025,BAFTA,1,directing
+Edward Norton,Oscar,2025,Oscar,1,acting
+Edward Norton,Golden Globe,2025,Golden Globe,1,acting
+Ehren Kruger ,Oscar,2023,Oscar,1,writing
+Elisabeth Moss,Golden Globe,2022,Golden Globe,1,acting
+Elizabeth Debicki,Golden Globe,2024,Golden Globe,2,acting
+Elizabeth Debicki,Golden Globe,2023,Golden Globe,1,acting
+Elizabeth Olsen,Golden Globe,2024,Golden Globe,1,acting
+Elizabeth Olsen,Golden Globe,2022,Golden Globe,1,acting
+Elle Fanning,Golden Globe,2024,Golden Globe,1,acting
+Elle Fanning,Golden Globe,2022,Golden Globe,1,acting
+Emilia Jones,BAFTA,2022,BAFTA,1,acting
+Emily Blunt,Oscar,2024,Oscar,1,acting
+Emily Blunt,Golden Globe,2024,Golden Globe,1,acting
+Emma D’Arcy,Golden Globe,2025,Golden Globe,1,acting
+Emma D’Arcy,Golden Globe,2023,Golden Globe,1,acting
+Emma Stone,Golden Globe,2022,Golden Globe,1,acting
+Emma Stone,Oscar,2024,Oscar,2,acting
+Emma Stone,Golden Globe,2024,Golden Globe,2,acting
+Emma Stone,BAFTA,2024,BAFTA,2,acting
+Emma Thompson,Golden Globe,2023,Golden Globe,1,acting
+Emma Thompson,BAFTA,2023,BAFTA,1,acting
+Eric Roth,Oscar,2022,Oscar,1,writing
+Eric Roth,BAFTA,2022,BAFTA,1,writing
+Eric Roth,Golden Globe,2024,Golden Globe,1,writing
+Eric Warren Singer,Oscar,2023,Oscar,1,writing
+Eskil Vogt,Oscar,2022,Oscar,1,writing
+Evan Peters,Golden Globe,2023,Golden Globe,2,acting
+Ewan McGregor,Golden Globe,2025,Golden Globe,1,acting
+Ewan McGregor,Golden Globe,2022,Golden Globe,1,acting
+F. Murray Abraham,Golden Globe,2023,Golden Globe,1,acting
+Fantasia Barrino,BAFTA,2024,BAFTA,1,acting
+Fantasia Barrino,Golden Globe,2024,Golden Globe,1,acting
+Felicity Jones,Oscar,2025,Oscar,1,acting
+Felicity Jones,Golden Globe,2025,Golden Globe,1,acting
+Fernanda Torres,Oscar,2025,Oscar,1,acting
+Fernanda Torres,Golden Globe,2025,Golden Globe,2,acting
+Gabriel LaBelle,Golden Globe,2025,Golden Globe,1,acting
+Gary Oldman,Golden Globe,2025,Golden Globe,1,acting
+Gary Oldman,Golden Globe,2024,Golden Globe,1,acting
+Gi Prince-Bythewood,BAFTA,2023,BAFTA,1,directing
+Glen Powell,Golden Globe,2025,Golden Globe,1,acting
+Greg Kwedar,Oscar,2025,Oscar,1,writing
+Greg Kwedar,BAFTA,2025,BAFTA,1,writing
+Greta Gerwig,Golden Globe,2024,Golden Globe,1,directing
+Greta Gerwig,Oscar,2024,Oscar,1,writing
+Greta Gerwig,Golden Globe,2024,Golden Globe,1,writing
+Greta Gerwig,BAFTA,2024,BAFTA,1,writing
+Greta Lee,Golden Globe,2024,Golden Globe,1,acting
+Guy Pearce,Oscar,2025,Oscar,1,acting
+Guy Pearce,Golden Globe,2025,Golden Globe,1,acting
+Hannah Einbinder,Golden Globe,2025,Golden Globe,1,acting
+Hannah Einbinder,Golden Globe,2023,Golden Globe,1,acting
+Hannah Einbinder,Golden Globe,2022,Golden Globe,1,acting
+Hannah Waddingham,Golden Globe,2024,Golden Globe,1,acting
+Hannah Waddingham,Golden Globe,2022,Golden Globe,1,acting
+Harrison Ford,Golden Globe,2025,Golden Globe,1,acting
+Helen Mirren,Golden Globe,2024,Golden Globe,1,acting
+Henry Winkler,Golden Globe,2023,Golden Globe,1,acting
+Hilary Swank,Golden Globe,2023,Golden Globe,1,acting
+Hiroyuki Sanada,Golden Globe,2025,Golden Globe,2,acting
+Hong Chau,Oscar,2023,Oscar,1,acting
+Hugh Grant,Golden Globe,2025,Golden Globe,1,acting
+Hugh Grant,BAFTA,2025,BAFTA,1,acting
+Hugh Jackman,Golden Globe,2023,Golden Globe,1,acting
+Ian Stokell,Oscar,2023,Oscar,1,writing
+Ian Stokell,BAFTA,2023,BAFTA,2,writing
+Imelda Staunton,Golden Globe,2024,Golden Globe,2,acting
+Imelda Staunton,Golden Globe,2023,Golden Globe,1,acting
+Isabella Rossellini,Oscar,2025,Oscar,1,acting
+Isabella Rossellini,Golden Globe,2025,Golden Globe,1,acting
+Issa Rae,Golden Globe,2022,Golden Globe,1,acting
+J. Smith-Cameron,Golden Globe,2024,Golden Globe,1,acting
+J.J. Ó Dochartaigh,BAFTA,2025,BAFTA,1,writing
+J.K. Simmons,Oscar,2022,Oscar,1,acting
+Jack Lowden,Golden Globe,2025,Golden Globe,1,acting
+Jacques Audiard,Oscar,2025,Oscar,1,directing
+Jacques Audiard,Golden Globe,2025,Golden Globe,1,directing
+Jacques Audiard,BAFTA,2025,BAFTA,1,directing
+Jacques Audiard,Oscar,2025,Oscar,1,writing
+Jacques Audiard,Golden Globe,2025,Golden Globe,1,writing
+Jacques Audiard,BAFTA,2025,BAFTA,1,writing
+Jake Gyllenhaal,Golden Globe,2025,Golden Globe,1,acting
+James Cameron,Golden Globe,2023,Golden Globe,1,directing
+James Mangold,Oscar,2025,Oscar,1,directing
+James Mangold,Oscar,2025,Oscar,1,writing
+James Mangold,BAFTA,2025,BAFTA,1,writing
+James Marsden,Golden Globe,2024,Golden Globe,1,acting
+Jamie Dorn,Golden Globe,2022,Golden Globe,1,acting
+Jamie Lee Curtis,Oscar,2023,Oscar,2,acting
+Jamie Lee Curtis,Golden Globe,2023,Golden Globe,1,acting
+Jane Campion,Oscar,2022,Oscar,2,directing
+Jane Campion,Golden Globe,2022,Golden Globe,2,directing
+Jane Campion,BAFTA,2022,BAFTA,2,directing
+Jane Campion,Oscar,2022,Oscar,1,writing
+Jane Campion,Golden Globe,2022,Golden Globe,1,writing
+Jane Campion,BAFTA,2022,BAFTA,1,writing
+Janelle James,Golden Globe,2023,Golden Globe,1,acting
+Jason Segel,Golden Globe,2025,Golden Globe,1,acting
+Jason Segel,Golden Globe,2024,Golden Globe,1,acting
+Jason Sudeikis,Golden Globe,2024,Golden Globe,1,acting
+Jason Sudeikis,Golden Globe,2022,Golden Globe,2,acting
+Javier Bardem,Oscar,2022,Oscar,1,acting
+Javier Bardem,Golden Globe,2022,Golden Globe,1,acting
+Javier Bardem,Golden Globe,2025,Golden Globe,1,acting
+Jay Cocks,Oscar,2025,Oscar,1,writing
+Jay Cocks,BAFTA,2025,BAFTA,1,writing
+Jean Smart,Golden Globe,2025,Golden Globe,2,acting
+Jean Smart,Golden Globe,2023,Golden Globe,1,acting
+Jean Smart,Golden Globe,2022,Golden Globe,2,acting
+Jeff Bridges,Golden Globe,2023,Golden Globe,1,acting
+Jeffrey Wright,Oscar,2024,Oscar,1,acting
+Jeffrey Wright,Golden Globe,2024,Golden Globe,1,acting
+Jenna Ortega,Golden Globe,2023,Golden Globe,1,acting
+Jennifer Aniston,Golden Globe,2022,Golden Globe,1,acting
+Jennifer Coolidge,Golden Globe,2023,Golden Globe,2,acting
+Jennifer Coolidge,Golden Globe,2022,Golden Globe,1,acting
+Jennifer Lawrence,Golden Globe,2022,Golden Globe,1,acting
+Jennifer Lawrence,Golden Globe,2024,Golden Globe,1,acting
+Jeremy Allen White,Golden Globe,2025,Golden Globe,2,acting
+Jeremy Allen White,Golden Globe,2024,Golden Globe,2,acting
+Jeremy Allen White,Golden Globe,2023,Golden Globe,2,acting
+Jeremy Pope,Golden Globe,2023,Golden Globe,1,acting
+Jeremy Strong,Golden Globe,2024,Golden Globe,1,acting
+Jeremy Strong,Golden Globe,2022,Golden Globe,2,acting
+Jeremy Strong,Oscar,2025,Oscar,1,acting
+Jeremy Strong,Golden Globe,2025,Golden Globe,1,acting
+Jesse Eisenberg,Golden Globe,2025,Golden Globe,1,acting
+Jesse Eisenberg,Oscar,2025,Oscar,1,writing
+Jesse Eisenberg,Golden Globe,2025,Golden Globe,1,writing
+Jesse Eisenberg,BAFTA,2025,BAFTA,2,writing
+Jesse Plemons,Golden Globe,2025,Golden Globe,1,acting
+Jesse Plemons,Oscar,2022,Oscar,1,acting
+Jessica Chastain,Golden Globe,2023,Golden Globe,1,acting
+Jessica Chastain,Golden Globe,2022,Golden Globe,1,acting
+Jessica Chastain,Oscar,2022,Oscar,2,acting
+Jessica Chastain,Golden Globe,2022,Golden Globe,1,acting
+Jessica Gunning,Golden Globe,2025,Golden Globe,2,acting
+Jessie Buckley,Oscar,2022,Oscar,1,acting
+Joachim Trier,Oscar,2022,Oscar,1,writing
+Joan Scanlan,BAFTA,2022,BAFTA,2,acting
+Joaquin Phoenix,Golden Globe,2024,Golden Globe,1,acting
+Jodie Foster,Oscar,2024,Oscar,1,acting
+Jodie Foster,Golden Globe,2024,Golden Globe,1,acting
+Jodie Foster,Golden Globe,2025,Golden Globe,2,acting
+"John ""Divine G"" Whitfield",Oscar,2025,Oscar,1,writing
+"John ""Divine G"" Whitfield",BAFTA,2025,BAFTA,1,writing
+John Lithgow,Golden Globe,2023,Golden Globe,1,acting
+John Turturro,Golden Globe,2023,Golden Globe,1,acting
+Jon Hamm,Golden Globe,2024,Golden Globe,1,acting
+Jon Spaihts,Oscar,2022,Oscar,1,writing
+Jon Spaihts,BAFTA,2022,BAFTA,1,writing
+Jonathan Glazer,Oscar,2024,Oscar,1,directing
+Jonathan Glazer,BAFTA,2024,BAFTA,1,directing
+Jonathan Glazer,Oscar,2024,Oscar,1,writing
+Jonathan Glazer,BAFTA,2024,BAFTA,1,writing
+Jonathan Pryce,Golden Globe,2023,Golden Globe,1,acting
+Josh Singer,Oscar,2024,Oscar,1,writing
+Josh Singer,BAFTA,2024,BAFTA,1,writing
+Joslyn Barnes,Oscar,2025,Oscar,1,writing
+Joslyn Barnes,BAFTA,2025,BAFTA,1,writing
+Judd Hirsch,Oscar,2023,Oscar,1,acting
+Judi Dench,Oscar,2022,Oscar,1,acting
+Julia Ducouru,BAFTA,2022,BAFTA,1,directing
+Julia Garner,Golden Globe,2023,Golden Globe,2,acting
+Julia Roberts,Golden Globe,2023,Golden Globe,1,acting
+Julianne Moore,Golden Globe,2024,Golden Globe,1,acting
+Juno Temple,Golden Globe,2024,Golden Globe,1,acting
+Justin Marks,Oscar,2023,Oscar,1,writing
+Justine Triet,Oscar,2024,Oscar,1,directing
+Justine Triet,BAFTA,2024,BAFTA,1,directing
+Justine Triet,Oscar,2024,Oscar,2,writing
+Justine Triet,Golden Globe,2024,Golden Globe,2,writing
+Justine Triet,BAFTA,2024,BAFTA,2,writing
+Kaitlyn Dever,Golden Globe,2022,Golden Globe,1,acting
+Kaley Cuoco,Golden Globe,2023,Golden Globe,1,acting
+Kali Reis,Golden Globe,2025,Golden Globe,1,acting
+Karla Sofía Gascón,Oscar,2025,Oscar,1,acting
+Karla Sofía Gascón,Golden Globe,2025,Golden Globe,1,acting
+Karla Sofía Gascón,BAFTA,2025,BAFTA,1,acting
+Kate Winslet,Golden Globe,2025,Golden Globe,1,acting
+Kate Winslet,Golden Globe,2022,Golden Globe,2,acting
+Kate Winslet,Golden Globe,2025,Golden Globe,1,acting
+Kathryn Hahn,Golden Globe,2025,Golden Globe,1,acting
+Kathy Bates,Golden Globe,2025,Golden Globe,1,acting
+Kazuo Ishiguro,Oscar,2023,Oscar,1,writing
+Kazuo Ishiguro,BAFTA,2023,BAFTA,1,writing
+Ke Huy Quan,Oscar,2023,Oscar,2,acting
+Ke Huy Quan,Golden Globe,2023,Golden Globe,2,acting
+Keira Knightley,Golden Globe,2025,Golden Globe,1,acting
+Kenneth Bragh,Oscar,2022,Oscar,1,directing
+Kenneth Bragh,Golden Globe,2022,Golden Globe,1,directing
+Kenneth Bragh,Oscar,2022,Oscar,2,writing
+Kenneth Bragh,Golden Globe,2022,Golden Globe,2,writing
+Kenneth Bragh,BAFTA,2022,BAFTA,1,writing
+Keri Russell,Golden Globe,2025,Golden Globe,1,acting
+Keri Russell,Golden Globe,2024,Golden Globe,1,acting
+Kerry Condon,Oscar,2023,Oscar,1,acting
+Kerry Condon,Golden Globe,2023,Golden Globe,1,acting
+Kevin Costner,Golden Globe,2023,Golden Globe,2,acting
+Kevin Kline,Golden Globe,2025,Golden Globe,1,acting
+Kieran Culkin,Oscar,2025,Oscar,2,acting
+Kieran Culkin,Golden Globe,2025,Golden Globe,2,acting
+Kieran Culkin,Golden Globe,2024,Golden Globe,2,acting
+Kieran Culkin,Golden Globe,2022,Golden Globe,1,acting
+Kirsten Dunst,Oscar,2022,Oscar,1,acting
+Kirsten Dunst,Golden Globe,2022,Golden Globe,1,acting
+Kodi Smit-McPhee,Oscar,2022,Oscar,1,acting
+Kodi Smit-McPhee,Golden Globe,2022,Golden Globe,2,acting
+Kristen Bell,Golden Globe,2025,Golden Globe,1,acting
+Kristen Stewart,Oscar,2022,Oscar,1,acting
+Kristen Stewart,Golden Globe,2022,Golden Globe,1,acting
+Lady Gaga,Golden Globe,2022,Golden Globe,1,acting
+Lady Gaga,BAFTA,2022,BAFTA,1,acting
+Laura Linney,Golden Globe,2023,Golden Globe,1,acting
+Léa Mysius,Oscar,2025,Oscar,1,writing
+Lee Jung-jae,Golden Globe,2022,Golden Globe,1,acting
+Leonardo DiCaprio,Golden Globe,2022,Golden Globe,1,acting
+Leonardo DiCaprio,BAFTA,2022,BAFTA,1,acting
+Leonardo DiCaprio,Golden Globe,2024,Golden Globe,1,acting
+Lesley Manville,Golden Globe,2023,Golden Globe,1,acting
+Lesley Paterson,Oscar,2023,Oscar,1,writing
+Lesley Paterson,BAFTA,2023,BAFTA,2,writing
+Liam Óg Ó HAnidh,BAFTA,2025,BAFTA,1,writing
+Lily Gladstone,Oscar,2024,Oscar,1,acting
+Lily Gladstone,Golden Globe,2024,Golden Globe,2,acting
+Lily James,Golden Globe,2023,Golden Globe,1,acting
+Liza Colón-Zayas,Golden Globe,2025,Golden Globe,1,acting
+Maggie Gyllenhaal,Golden Globe,2022,Golden Globe,1,directing
+Maggie Gyllenhaal,Oscar,2022,Oscar,1,writing
+Maggie Gyllenhaal,BAFTA,2022,BAFTA,1,writing
+Mahershala Ali,Golden Globe,2022,Golden Globe,1,acting
+Mahershala Ali,BAFTA,2022,BAFTA,1,acting
+Margaret Qualley,Golden Globe,2022,Golden Globe,1,acting
+Margaret Qualley,Golden Globe,2025,Golden Globe,1,acting
+Margot Robbie,Golden Globe,2023,Golden Globe,1,acting
+Margot Robbie,Golden Globe,2024,Golden Globe,1,acting
+Margot Robbie,BAFTA,2024,BAFTA,1,acting
+Marianne Jean-Baptiste,BAFTA,2025,BAFTA,1,acting
+Marion Cotillard,Golden Globe,2022,Golden Globe,1,acting
+Mark Duplass,Golden Globe,2022,Golden Globe,1,acting
+Mark Ruffalo,Oscar,2024,Oscar,1,acting
+Mark Ruffalo,Golden Globe,2024,Golden Globe,1,acting
+Martin McDonagh,Oscar,2023,Oscar,1,directing
+Martin McDonagh,Golden Globe,2023,Golden Globe,1,directing
+Martin McDonagh,BAFTA,2023,BAFTA,1,directing
+Martin McDonagh,Oscar,2023,Oscar,1,writing
+Martin McDonagh,Golden Globe,2023,Golden Globe,2,writing
+Martin McDonagh,BAFTA,2023,BAFTA,2,writing
+Martin Scorsese,Oscar,2024,Oscar,1,directing
+Martin Scorsese,Golden Globe,2024,Golden Globe,1,directing
+Martin Scorsese,Golden Globe,2024,Golden Globe,1,writing
+Martin Short,Golden Globe,2025,Golden Globe,1,acting
+Martin Short,Golden Globe,2024,Golden Globe,1,acting
+Martin Short,Golden Globe,2023,Golden Globe,1,acting
+Martin Short,Golden Globe,2022,Golden Globe,1,acting
+Matt Bomer,Golden Globe,2024,Golden Globe,1,acting
+Matt Damon,Golden Globe,2024,Golden Globe,1,acting
+Matthew Macfadyen,Golden Globe,2024,Golden Globe,2,acting
+Maya Erskine,Golden Globe,2025,Golden Globe,1,acting
+Meryl Streep,Golden Globe,2024,Golden Globe,1,acting
+Michael Keaton,Golden Globe,2022,Golden Globe,2,acting
+Michaela Jaé Rodriguez,Golden Globe,2022,Golden Globe,2,acting
+Michelle Williams,Oscar,2023,Oscar,1,acting
+Michelle Williams,Golden Globe,2023,Golden Globe,1,acting
+Michelle Yeoh,Oscar,2023,Oscar,2,acting
+Michelle Yeoh,Golden Globe,2023,Golden Globe,2,acting
+Michelle Yeoh,BAFTA,2023,BAFTA,1,acting
+Mikey Madison,Oscar,2025,Oscar,2,acting
+Mikey Madison,Golden Globe,2025,Golden Globe,1,acting
+Mikey Madison,BAFTA,2025,BAFTA,2,acting
+Mona Fastvold,Oscar,2025,Oscar,1,writing
+Mona Fastvold,Golden Globe,2025,Golden Globe,1,writing
+Mona Fastvold,BAFTA,2025,BAFTA,1,writing
+Monica Barbaro,Oscar,2025,Oscar,1,acting
+Moritz Binder,Oscar,2025,Oscar,1,writing
+Naoise Ó Cairealláin,BAFTA,2025,BAFTA,1,writing
+Naomi Watts,Golden Globe,2025,Golden Globe,1,acting
+Natalie Portman,Golden Globe,2024,Golden Globe,1,acting
+Natasha Lyonne,Golden Globe,2024,Golden Globe,1,acting
+Nicholas Hoult,Golden Globe,2022,Golden Globe,1,acting
+Nicolas Cage,Golden Globe,2024,Golden Globe,1,acting
+Nicolas Livecchi,Oscar,2025,Oscar,1,writing
+Nicole Kidman,Golden Globe,2025,Golden Globe,1,acting
+Nicole Kidman,Oscar,2022,Oscar,1,acting
+Nicole Kidman,Golden Globe,2022,Golden Globe,2,acting
+Niecy Nash-Betts,Golden Globe,2023,Golden Globe,1,acting
+Noah Baumbach,Oscar,2024,Oscar,1,writing
+Noah Baumbach,Golden Globe,2024,Golden Globe,1,writing
+Noah Baumbach,BAFTA,2024,BAFTA,1,writing
+Oh Young-soo,Golden Globe,2022,Golden Globe,2,acting
+Olivia Colman,Golden Globe,2023,Golden Globe,1,acting
+Olivia Colman,Oscar,2022,Oscar,1,acting
+Olivia Colman,Golden Globe,2022,Golden Globe,1,acting
+Omar Sy,Golden Globe,2022,Golden Globe,1,acting
+Oscar Isaac,Golden Globe,2022,Golden Globe,1,acting
+Pamela Anderson,Golden Globe,2025,Golden Globe,1,acting
+Park Chan-wook,BAFTA,2023,BAFTA,1,directing
+Paul Bettany,Golden Globe,2022,Golden Globe,1,acting
+Paul Giamatti,Oscar,2024,Oscar,1,acting
+Paul Giamatti,Golden Globe,2024,Golden Globe,2,acting
+Paul Giamatti,BAFTA,2024,BAFTA,1,acting
+Paul Mescal,Oscar,2023,Oscar,1,acting
+Paul Mescal,BAFTA,2023,BAFTA,1,acting
+Paul Thomas Anderson,Oscar,2022,Oscar,1,directing
+Paul Thomas Anderson,BAFTA,2022,BAFTA,1,directing
+Paul Thomas Anderson,Oscar,2022,Oscar,1,writing
+Paul Thomas Anderson,Golden Globe,2022,Golden Globe,1,writing
+Paul Thomas Anderson,BAFTA,2022,BAFTA,2,writing
+Paul Walter Hauser,Golden Globe,2023,Golden Globe,2,acting
+Payal Kapadia,Golden Globe,2025,Golden Globe,1,directing
+Pedro Pascal,Golden Globe,2024,Golden Globe,1,acting
+Penélope Cruz,Oscar,2022,Oscar,1,acting
+Peter Craig,Oscar,2023,Oscar,1,writing
+Peter Dinklage,Golden Globe,2022,Golden Globe,1,acting
+Peter Straughan,Oscar,2025,Oscar,2,writing
+Peter Straughan,Golden Globe,2025,Golden Globe,2,writing
+Peter Straughan,BAFTA,2025,BAFTA,2,writing
+Quinta Brunson,Golden Globe,2025,Golden Globe,1,acting
+Quinta Brunson,Golden Globe,2024,Golden Globe,1,acting
+Quinta Brunson,Golden Globe,2023,Golden Globe,2,acting
+Rachel Brosnahan,Golden Globe,2024,Golden Globe,1,acting
+Rachel Weisz,Golden Globe,2024,Golden Globe,1,acting
+Rachel Zegler,Golden Globe,2022,Golden Globe,2,acting
+Ralph Fiennes,Oscar,2025,Oscar,1,acting
+Ralph Fiennes,Golden Globe,2025,Golden Globe,1,acting
+Ralph Fiennes,BAFTA,2025,BAFTA,1,acting
+Ralph Fiennes,Golden Globe,2023,Golden Globe,1,acting
+RaMell Ross,Oscar,2025,Oscar,1,writing
+RaMell Ross,BAFTA,2025,BAFTA,1,writing
+Rebecca Lenkiewicz,BAFTA,2023,BAFTA,1,writing
+Rete Reinsve,BAFTA,2022,BAFTA,1,acting
+Rian Johnson,Oscar,2023,Oscar,1,writing
+Rich Peppiatt,BAFTA,2025,BAFTA,1,writing
+Richard Gadd,Golden Globe,2025,Golden Globe,1,acting
+Richard Jenkins,Golden Globe,2023,Golden Globe,1,acting
+Riley Keough,Golden Globe,2024,Golden Globe,1,acting
+Robert De Niro,Oscar,2024,Oscar,1,acting
+Robert De Niro,Golden Globe,2024,Golden Globe,1,acting
+Robert Downey Jr.,Oscar,2024,Oscar,2,acting
+Robert Downey Jr.,Golden Globe,2024,Golden Globe,2,acting
+Rosamund Pike,Golden Globe,2024,Golden Globe,1,acting
+Ruben Östlund,Oscar,2023,Oscar,1,directing
+Ruben Östlund,Oscar,2023,Oscar,1,writing
+Ruben Östlund,BAFTA,2023,BAFTA,1,writing
+Ruth Negga,Golden Globe,2022,Golden Globe,1,acting
+Ryan Gosling,Oscar,2024,Oscar,1,acting
+Ryan Gosling,Golden Globe,2024,Golden Globe,1,acting
+Ryusuke Hamaguchi,Oscar,2022,Oscar,1,directing
+Ryusuke Hamaguchi,Oscar,2022,Oscar,1,writing
+Ryūsuke Hamaguchi,BAFTA,2022,BAFTA,1,directing
+Ryūsuke Hamaguchi,BAFTA,2022,BAFTA,1,writing
+Sam Claflin,Golden Globe,2024,Golden Globe,1,acting
+Samuel D Hunter,BAFTA,2023,BAFTA,1,writing
+Samy Burch,Oscar,2024,Oscar,1,writing
+Sandra Hüller,Oscar,2024,Oscar,1,acting
+Sandra Hüller,Golden Globe,2024,Golden Globe,1,acting
+Sandra Hüller,BAFTA,2024,BAFTA,1,acting
+Saoirse Ronan,BAFTA,2025,BAFTA,1,acting
+Sarah Polley,Oscar,2023,Oscar,2,writing
+Sarah Polley,Golden Globe,2023,Golden Globe,1,writing
+Sarah Snook,Golden Globe,2024,Golden Globe,2,acting
+Sarah Snook,Golden Globe,2022,Golden Globe,2,acting
+Sean Baker,Oscar,2025,Oscar,2,directing
+Sean Baker,Golden Globe,2025,Golden Globe,1,directing
+Sean Baker,BAFTA,2025,BAFTA,1,directing
+Sean Baker,Oscar,2025,Oscar,2,writing
+Sean Baker,Golden Globe,2025,Golden Globe,1,writing
+Sean Baker,BAFTA,2025,BAFTA,1,writing
+Sebastian Stan,Golden Globe,2025,Golden Globe,2,acting
+Sebastian Stan,Golden Globe,2023,Golden Globe,1,acting
+Sebastian Stan,Oscar,2025,Oscar,1,acting
+Sebastian Stan,Golden Globe,2025,Golden Globe,1,acting
+Sebastian Stan,BAFTA,2025,BAFTA,1,acting
+Selena Gomez,Golden Globe,2025,Golden Globe,1,acting
+Selena Gomez,Golden Globe,2025,Golden Globe,1,acting
+Selena Gomez,Golden Globe,2024,Golden Globe,1,acting
+Selena Gomez,Golden Globe,2023,Golden Globe,1,acting
+Seth Rogen,Golden Globe,2023,Golden Globe,1,acting
+Sheryl Lee Ralph,Golden Globe,2023,Golden Globe,1,acting
+Siân Heder,Oscar,2022,Oscar,2,writing
+Siân Heder,BAFTA,2022,BAFTA,2,writing
+Sofía Vergara,Golden Globe,2025,Golden Globe,1,acting
+Stephanie Hsu,Oscar,2023,Oscar,1,acting
+Stephen Graham,BAFTA,2022,BAFTA,1,acting
+Sterling K. Brown,Oscar,2024,Oscar,1,acting
+Steve Martin,Golden Globe,2025,Golden Globe,1,acting
+Steve Martin,Golden Globe,2024,Golden Globe,1,acting
+Steve Martin,Golden Globe,2023,Golden Globe,1,acting
+Steve Martin,Golden Globe,2022,Golden Globe,1,acting
+Steven Spielberg,Oscar,2023,Oscar,1,directing
+Steven Spielberg,Golden Globe,2023,Golden Globe,2,directing
+Steven Spielberg,Oscar,2023,Oscar,1,writing
+Steven Spielberg,Golden Globe,2023,Golden Globe,1,writing
+Steven Spielberg,BAFTA,2023,BAFTA,1,writing
+Steven Spielberg,Oscar,2022,Oscar,1,directing
+Steven Spielberg,Golden Globe,2022,Golden Globe,1,directing
+Steven Yeun,Golden Globe,2024,Golden Globe,2,acting
+Tadanobu Asano,Golden Globe,2025,Golden Globe,2,acting
+Tahar Rahim,Golden Globe,2022,Golden Globe,1,acting
+Takamasa Oe,Oscar,2022,Oscar,1,writing
+Takamasa Oe,BAFTA,2022,BAFTA,1,writing
+Taron Egerton,Golden Globe,2023,Golden Globe,1,acting
+Ted Danson,Golden Globe,2025,Golden Globe,1,acting
+Teo Yoo,BAFTA,2024,BAFTA,1,acting
+Tessa Thompson,BAFTA,2022,BAFTA,1,acting
+Thomas Bidegain,Oscar,2025,Oscar,1,writing
+Tilda Swinton,Golden Globe,2025,Golden Globe,1,acting
+Tim Fehlbaum,Oscar,2025,Oscar,1,writing
+Timothée Chalamet,Oscar,2025,Oscar,1,acting
+Timothée Chalamet,Golden Globe,2025,Golden Globe,1,acting
+Timothée Chalamet,BAFTA,2025,BAFTA,1,acting
+Timothée Chalamet,Golden Globe,2024,Golden Globe,1,acting
+Todd Field,Oscar,2023,Oscar,1,directing
+Todd Field,Oscar,2023,Oscar,1,writing
+Todd Field,Golden Globe,2023,Golden Globe,1,writing
+Todd Field,BAFTA,2023,BAFTA,1,directing
+Todd Field,BAFTA,2023,BAFTA,1,writing
+Tony Kushner,Oscar,2023,Oscar,1,writing
+Tony Kushner,Golden Globe,2023,Golden Globe,1,writing
+Tony Kushner,BAFTA,2023,BAFTA,1,writing
+Tony Mcmara,Oscar,2024,Oscar,1,writing
+Tony Mcmara,Golden Globe,2024,Golden Globe,1,writing
+Tony Mcmara,BAFTA,2024,BAFTA,1,writing
+Tracee Ellis Ross,Golden Globe,2022,Golden Globe,1,acting
+Troy Kotsur,Oscar,2022,Oscar,1,acting
+Troy Kotsur,Golden Globe,2022,Golden Globe,1,acting
+Tyler Williams,Golden Globe,2023,Golden Globe,2,acting
+Uzo Aduba,Golden Globe,2022,Golden Globe,1,acting
+Viola Davis,Golden Globe,2023,Golden Globe,1,acting
+Viola Davis,BAFTA,2023,BAFTA,1,acting
+Vivian Oparah,BAFTA,2024,BAFTA,1,acting
+Will Smith,Oscar,2022,Oscar,2,acting
+Will Smith,Golden Globe,2022,Golden Globe,2,acting
+Will Smith,BAFTA,2022,BAFTA,2,acting
+Willem Dafoe,Golden Globe,2024,Golden Globe,1,acting
+Woody Harrelson,Golden Globe,2024,Golden Globe,1,acting
+Yorgos Lanthimos,Oscar,2024,Oscar,1,directing
+Yorgos Lanthimos,Golden Globe,2024,Golden Globe,1,directing
+Yura Borisov,Oscar,2025,Oscar,1,acting
+Yura Borisov,Golden Globe,2025,Golden Globe,1,acting
+Zach Baylin,Oscar,2022,Oscar,1,writing
+Zach Baylin,BAFTA,2022,BAFTA,1,writing
+Zendaya,Golden Globe,2025,Golden Globe,1,acting
+Zendaya,Golden Globe,2023,Golden Globe,2,acting
+Zoe Saldaña,Oscar,2025,Oscar,2,acting
+Zoe Saldaña,Golden Globe,2025,Golden Globe,2,acting
