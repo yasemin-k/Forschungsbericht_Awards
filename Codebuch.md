@@ -25,9 +25,9 @@ Wie verteilt sich das Geschlecht in gemischten Kategorien?
 Zeitraum: (eintragen)
 Awards:
 
-* oscar
-* golden_globe
-* bafta
+* Oscar
+* Golden_Globe
+* BAFTA
 
 Analyseeinheit: Beziehung zwischen Person und Award-Event
 Datentyp: Netzwerkdaten (Edge- und Nodelist)
@@ -80,6 +80,8 @@ Geschlecht (male, female, NA für award_event)
 
 ethnicity:
 Ethnische Zuordnung (white, black, asian, latin, mixed, NA)
+
+Die Variable non_white umfasst alle Personen, die im Datensatz nicht als „White“ codiert wurden. Für die Ergebnisdarstellung wird diese Gruppe zusammenfassend als People of Color (PoC) bezeichnet. Dabei ist zu berücksichtigen, dass es sich um eine analytische Gruppierung innerhalb des Datensatzes handelt und nicht um eine individuell erhobene Selbstbezeichnung.
 
 year_of_birth:
 Geburtsjahr (numerisch, NA für award_event)
