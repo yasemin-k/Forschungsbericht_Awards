@@ -1,105 +1,108 @@
-Codebuch
+# Codebuch
 
 ## Forschungsinteresse
 
-Ziel des Projekts ist die Analyse, ob frühere Auszeichnungen bei den Golden Globes und BAFTA Awards die Wahrscheinlichkeit erhöhen, zu einem späteren Zeitpunkt einen Oscar zu gewinnen oder nominiert zu werden.
+Ziel des Projekts ist die Analyse, ob frühere Anerkennung bei den Golden Globes oder BAFTA Awards mit einer späteren Oscar-Nominierung beziehungsweise einem späteren Oscar-Gewinn zusammenhängt.
 
-Im Zentrum steht der Matthäus-Effekt bei Nominierungen und Auszeichnungen in den Kategorien Schauspiel, Regie und Drehbuch bei Oscars, Golden Globes und BAFTA.
+Im Zentrum steht der Matthäus-Effekt bei Nominierungen und Auszeichnungen in den Kategorien Schauspiel, Regie und Drehbuch bei Oscars, Golden Globes und BAFTAs.
 
 ## Hypothesen
 
-H1 – Matthäus-Effekt:
-Personen mit früherer Award-Anerkennung bei den Golden Globes oder BAFTA (Nominierung oder Gewinn) haben eine höhere Wahrscheinlichkeit für spätere Oscar-Nominierungen oder -Gewinne.
+H1 – Matthäus-Effekt:  
+Frühere Award-Anerkennung bei den Golden Globes oder BAFTAs, in Form von Nominierungen oder Gewinnen, steht in Zusammenhang mit späterer Oscar-Anerkennung.
 
-H2 – Diversität:
-Wie divers sind nominierte und ausgezeichnete Personen hinsichtlich Ethnie?
+H2 – Ethnische Diversität unter Nominierten und Gewinner*innen:  
+PoC sind im untersuchten Award-Netzwerk insgesamt seltener vertreten als weiße Personen.
 
-H3 – Alter:
-Unterscheiden sich nominierte und ausgezeichnete Personen im Durchschnittsalter zwischen Männern und Frauen?
+H3 – Geschlechterverteilung in gemischten Kategorien:  
+In den Kategorien Regie und Drehbuch sind Männer unter den Nominierten und Gewinner*innen stärker vertreten als Frauen.
 
-H4 – Geschlecht:
-Wie verteilt sich das Geschlecht in gemischten Kategorien?
+H4 – Altersverteilung nach Geschlecht:  
+Das Durchschnittsalter männlicher Nominierter und Gewinner liegt über dem Durchschnittsalter weiblicher Nominierter und Gewinnerinnen.
 
 ## Datengrundlage
 
-Zeitraum: (eintragen)
+Zeitraum: 2022 bis 2025
+
 Awards:
+- Oscar
+- Golden Globe
+- BAFTA
 
-* Oscar
-* Golden_Globe
-* BAFTA
-
-Analyseeinheit: Beziehung zwischen Person und Award-Event
+Analyseeinheit: Beziehung zwischen Person und Award-Event  
 Datentyp: Netzwerkdaten (Edge- und Nodelist)
 
 ## Netzwerktyp
 
-gerichtetes Netzwerk (person → award_event)
-gewichtetes Netzwerk (nominiert vs. gewonnen)
-bipartites Netzwerk (Personen und Award-Events)
+Es handelt sich um ein ungerichtetes, gewichtetes Two-Mode-Netzwerk aus Personen und Award-Events.
+
+Die Kanten verbinden Personen mit den Award-Events Oscar, Golden Globe und BAFTA. Die Gewichtung unterscheidet zwischen Nominierung und Gewinn.
 
 ## Edge-Liste (edgelist.csv)
 
 Jede Zeile beschreibt eine Beziehung zwischen einer Person und einem Award-Event.
 
-from:
+from:  
 Name der Person
 
-to:
-Award-Event (z. B. Oscar, BAFTA, Golden Globe)
+to:  
+Award-Event, z. B. Oscar, BAFTA oder Golden Globe
 
-year:
+year:  
 Jahr der Preisverleihung
 
-award:
-Art des Awards (oscar, golden_globe, bafta)
+award:  
+Art des Awards: Oscar, Golden Globe oder BAFTA
 
-weight:
-Gewichtung der Beziehung
-1 = Nominierung
+weight:  
+Gewichtung der Beziehung  
+1 = Nominierung  
 2 = Gewinn
 
-category:
-Kategorie der Auszeichnung (z. B. actor, actress, supporting_actor, writing, directing)
+category:  
+Kategorie der Auszeichnung, z. B. acting, writing oder directing
 
-project:
-Film/Projekt
+project:  
+Film/Projekt. Diese Variable wurde dokumentiert, aber nicht als eigener Knotentyp in das finale Netzwerk aufgenommen.
 
 ## Node-Liste (nodelist.csv)
 
 Metadaten zu allen Knoten im Netzwerk.
 
-id:
+id:  
 Name des Knotens
 
-type:
-Knotentyp (person, award_event)
+type:  
+Knotentyp: Person oder AwardEvent
 
-sex:
-Geschlecht (male, female, NA für award_event)
+sex:  
+Geschlecht: male, female oder leer für Award-Events
 
-ethnicity:
-Ethnische Zuordnung (white, black, asian, latin, mixed, NA)
+ethnicity:  
+Ethnische Zugehörigkeit, z. B. White, Black, Asian, Latin, Mixed, Indigenous, Arab oder leer für Award-Events
 
-Die Variable non_white umfasst alle Personen, die im Datensatz nicht als „White“ codiert wurden. Für die Ergebnisdarstellung wird diese Gruppe zusammenfassend als People of Color (PoC) bezeichnet. Dabei ist zu berücksichtigen, dass es sich um eine analytische Gruppierung innerhalb des Datensatzes handelt und nicht um eine individuell erhobene Selbstbezeichnung.
+Die Variable non_white umfasst alle Personen, die im Datensatz nicht als White codiert wurden. Für die Ergebnisdarstellung wird diese Gruppe zusammenfassend als People of Color (PoC) bezeichnet. Dabei ist zu berücksichtigen, dass es sich um eine analytische Gruppierung innerhalb des Datensatzes handelt und nicht um eine individuell erhobene Selbstbezeichnung.
 
-year_of_birth:
-Geburtsjahr (numerisch, NA für award_event)
+year_of_birth:  
+Geburtsjahr, numerisch oder leer für Award-Events
 
 ## Modellierungsentscheidungen
 
-Award-Events werden als jahresspezifische Knoten modelliert (z. B. oscar_2024)
-Dadurch werden Mehrfachkanten vermieden
-Das Jahr wird zusätzlich als Variable gespeichert, um zeitliche Analysen zu ermöglichen
-Die Gewichtung unterscheidet zwischen Nominierung und Gewinn
+Die Award-Events werden als Award-Knoten modelliert: Oscar, Golden Globe und BAFTA. Das Jahr der Preisverleihung wird zusätzlich als Variable in der Edgelist gespeichert, um zeitliche Analysen zu ermöglichen.
+
+Die Gewichtung der Kanten unterscheidet zwischen Nominierung und Gewinn. Filme beziehungsweise Projekte wurden nicht als eigene Knoten in das finale Netzwerk aufgenommen, damit der Fokus auf Personen und Award-Events liegt.
 
 ## Datenbereinigung
 
-Einheitliche Schreibweise in snake_case
-Entfernung von Leerzeichen und Tippfehlern
-Konsistente Kategorien bei award, category und ethnicity
-Fehlende Werte werden als NA codiert
+- Einheitliche Schreibweise der Personen- und Award-Namen
+- Entfernung überflüssiger Leerzeichen
+- Korrektur von Tippfehlern
+- Konsistente Kategorien bei award, category und ethnicity
+- Fehlende Werte wurden leer gelassen, damit sie in R als NA eingelesen werden können
 
+## Nutzung
+
+Der Datensatz dient der explorativen Netzwerkanalyse. Er ermöglicht die Untersuchung von Zusammenhängen und strukturellen Mustern, erlaubt jedoch keine kausalen Aussagen.
 ## Nutzung
 
 Der Datensatz dient der explorativen Netzwerkanalyse und ermöglicht keine kausalen Aussagen.
